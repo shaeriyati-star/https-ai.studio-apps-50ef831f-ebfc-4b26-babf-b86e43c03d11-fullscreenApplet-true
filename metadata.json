@@ -1,0 +1,6 @@
+{
+  "name": "MARKETVERSE X",
+  "description": "Digital Marketing Learning & Game Academy untuk siswa SMK Kelas X Program Keahlian Pemasaran, mata pelajaran Dasar-Dasar Pemasaran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

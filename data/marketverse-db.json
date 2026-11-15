@@ -1,0 +1,3863 @@
+{
+  "users": [
+    {
+      "id": "superadmin-1",
+      "username": "superadmin",
+      "name": "Dr. Hendra Kusuma, M.T.",
+      "email": "superadmin@marketverse.sch.id",
+      "passwordHash": "$2b$10$Vi9YaAKSze/XDzQ526YPhu7nEm/x8lVzlJ9l/VKi7/lMcS7YvST9O",
+      "role": "super_admin",
+      "nip": "197903152005011002",
+      "avatarColor": "#4F46E5",
+      "isActive": true,
+      "xp": 0,
+      "level": 1,
+      "tier": "Marketing Master",
+      "studyMinutes": 0,
+      "badges": [],
+      "completedMissions": [],
+      "createdAt": "2026-11-15T03:56:39.046Z",
+      "lastLoginAt": "2026-11-15T04:00:56.759Z",
+      "lastLoginDevice": "API Client di Sistem Lain"
+    },
+    {
+      "id": "admin-1",
+      "name": "Budi Santoso, S.Kom.",
+      "email": "admin@marketverse.sch.id",
+      "passwordHash": "$2b$10$6sFZnk2MnoUQ8rCLGdjcrO6lEPRTWwUDXLpzKfqPcBF5ETTN8aX3.",
+      "role": "admin",
+      "nip": "198405122010011008",
+      "avatarColor": "#0B193D",
+      "isActive": true,
+      "xp": 0,
+      "level": 1,
+      "tier": "Marketing Beginner",
+      "studyMinutes": 0,
+      "badges": [],
+      "completedMissions": [],
+      "createdAt": "2026-07-01T07:00:00.000Z",
+      "username": "admin",
+      "lastLoginAt": "2026-11-15T03:57:25.236Z",
+      "lastLoginDevice": "API Client di Sistem Lain"
+    },
+    {
+      "id": "guru-1",
+      "name": "Ratna Sari, S.E., M.Pd.",
+      "email": "guru@marketverse.sch.id",
+      "passwordHash": "$2b$10$d61aNgzcLXT9gVU2woY9/eU4ljyfvd7KfteDnz2.OT25JztUw2udK",
+      "role": "guru",
+      "nip": "198911032014022004",
+      "avatarColor": "#1D4ED8",
+      "isActive": true,
+      "xp": 0,
+      "level": 1,
+      "tier": "Marketing Master",
+      "studyMinutes": 0,
+      "badges": [],
+      "completedMissions": [],
+      "createdAt": "2026-07-01T07:00:00.000Z",
+      "username": "guru",
+      "lastLoginAt": "2026-11-15T03:57:25.543Z",
+      "lastLoginDevice": "API Client di Sistem Lain"
+    },
+    {
+      "id": "siswa-1",
+      "name": "Alya Putri Maharani",
+      "email": "siswa@marketverse.sch.id",
+      "passwordHash": "$2b$10$i92tiVsk67zC70wSyHK5qOMf1jHx5cZ3n0UOy14m0oVVA8juRYObq",
+      "role": "siswa",
+      "nisNisn": "261001 / 0098451201",
+      "classId": "cls-xpm1",
+      "avatarColor": "#2563EB",
+      "isActive": true,
+      "xp": 1120,
+      "level": 5,
+      "tier": "Marketing Specialist",
+      "studyMinutes": 485,
+      "badges": [
+        "badge-starter",
+        "badge-tycoon",
+        "badge-cs"
+      ],
+      "completedMissions": [
+        "m-daily-read",
+        "m-daily-game"
+      ],
+      "createdAt": "2026-07-10T07:00:00.000Z",
+      "username": "siswa",
+      "lastLoginAt": "2026-11-15T03:57:25.851Z",
+      "lastLoginDevice": "API Client di Sistem Lain"
+    },
+    {
+      "id": "siswa-2",
+      "name": "Raka Pratama Wijaya",
+      "email": "raka@marketverse.sch.id",
+      "passwordHash": "$2b$10$i92tiVsk67zC70wSyHK5qOMf1jHx5cZ3n0UOy14m0oVVA8juRYObq",
+      "role": "siswa",
+      "nisNisn": "261002 / 0098451202",
+      "classId": "cls-xpm1",
+      "avatarColor": "#6D28D9",
+      "isActive": true,
+      "xp": 1580,
+      "level": 7,
+      "tier": "Retail Professional",
+      "studyMinutes": 610,
+      "badges": [
+        "badge-starter",
+        "badge-tycoon",
+        "badge-cs",
+        "badge-scholar"
+      ],
+      "completedMissions": [
+        "m-daily-read",
+        "m-daily-game",
+        "m-weekly-quiz"
+      ],
+      "createdAt": "2026-07-10T07:00:00.000Z",
+      "username": "raka"
+    },
+    {
+      "id": "siswa-3",
+      "name": "Siti Rahma Azzahra",
+      "email": "siti@marketverse.sch.id",
+      "passwordHash": "$2b$10$i92tiVsk67zC70wSyHK5qOMf1jHx5cZ3n0UOy14m0oVVA8juRYObq",
+      "role": "siswa",
+      "nisNisn": "261003 / 0098451203",
+      "classId": "cls-xpm1",
+      "avatarColor": "#0284C7",
+      "isActive": true,
+      "xp": 940,
+      "level": 4,
+      "tier": "Retail Explorer",
+      "studyMinutes": 420,
+      "badges": [
+        "badge-starter",
+        "badge-k3"
+      ],
+      "completedMissions": [
+        "m-daily-read"
+      ],
+      "createdAt": "2026-07-10T07:00:00.000Z",
+      "username": "siti"
+    },
+    {
+      "id": "siswa-4",
+      "name": "Bagas Adi Nugroho",
+      "email": "bagas@marketverse.sch.id",
+      "passwordHash": "$2b$10$i92tiVsk67zC70wSyHK5qOMf1jHx5cZ3n0UOy14m0oVVA8juRYObq",
+      "role": "siswa",
+      "nisNisn": "261004 / 0098451204",
+      "classId": "cls-xpm2",
+      "avatarColor": "#7C3AED",
+      "isActive": true,
+      "xp": 1290,
+      "level": 6,
+      "tier": "Marketing Specialist",
+      "studyMinutes": 515,
+      "badges": [
+        "badge-starter",
+        "badge-tycoon",
+        "badge-k3"
+      ],
+      "completedMissions": [
+        "m-daily-read",
+        "m-daily-game"
+      ],
+      "createdAt": "2026-07-10T07:00:00.000Z",
+      "username": "bagas"
+    },
+    {
+      "id": "siswa-5",
+      "name": "Nadia Kusuma Dewi",
+      "email": "nadia@marketverse.sch.id",
+      "passwordHash": "$2b$10$i92tiVsk67zC70wSyHK5qOMf1jHx5cZ3n0UOy14m0oVVA8juRYObq",
+      "role": "siswa",
+      "nisNisn": "261005 / 0098451205",
+      "classId": "cls-xpm2",
+      "avatarColor": "#D97706",
+      "isActive": true,
+      "xp": 780,
+      "level": 4,
+      "tier": "Retail Explorer",
+      "studyMinutes": 350,
+      "badges": [
+        "badge-starter"
+      ],
+      "completedMissions": [
+        "m-daily-read"
+      ],
+      "createdAt": "2026-07-10T07:00:00.000Z",
+      "username": "nadia"
+    },
+    {
+      "id": "siswa-6",
+      "name": "Farhan Maulana Hakim",
+      "email": "farhan@marketverse.sch.id",
+      "passwordHash": "$2b$10$i92tiVsk67zC70wSyHK5qOMf1jHx5cZ3n0UOy14m0oVVA8juRYObq",
+      "role": "siswa",
+      "nisNisn": "261006 / 0098451206",
+      "classId": "cls-xpm2",
+      "avatarColor": "#0F172A",
+      "isActive": true,
+      "xp": 520,
+      "level": 3,
+      "tier": "Junior Marketer",
+      "studyMinutes": 260,
+      "badges": [
+        "badge-starter"
+      ],
+      "completedMissions": [],
+      "createdAt": "2026-07-10T07:00:00.000Z",
+      "username": "farhan"
+    },
+    {
+      "id": "ortu-1",
+      "name": "Ibu Hendrawati",
+      "email": "ortu@marketverse.sch.id",
+      "passwordHash": "$2b$10$gJP5820l4vBX.bSmNN0VReaoH2GCCbfR6E7LsNTOGtfrqBLwJQ3hC",
+      "role": "orang_tua",
+      "linkedStudentId": "siswa-1",
+      "avatarColor": "#B45309",
+      "isActive": true,
+      "xp": 0,
+      "level": 1,
+      "tier": "Marketing Beginner",
+      "studyMinutes": 0,
+      "badges": [],
+      "completedMissions": [],
+      "createdAt": "2026-07-12T07:00:00.000Z",
+      "username": "ortu",
+      "lastLoginAt": "2026-11-15T03:57:26.167Z",
+      "lastLoginDevice": "API Client di Sistem Lain"
+    },
+    {
+      "id": "ortu-2",
+      "name": "Bapak Agus Wijaya",
+      "email": "ortu.raka@marketverse.sch.id",
+      "passwordHash": "$2b$10$gJP5820l4vBX.bSmNN0VReaoH2GCCbfR6E7LsNTOGtfrqBLwJQ3hC",
+      "role": "orang_tua",
+      "linkedStudentId": "siswa-2",
+      "avatarColor": "#1E3A8A",
+      "isActive": true,
+      "xp": 0,
+      "level": 1,
+      "tier": "Marketing Beginner",
+      "studyMinutes": 0,
+      "badges": [],
+      "completedMissions": [],
+      "createdAt": "2026-07-12T07:00:00.000Z",
+      "username": "ortu.raka"
+    },
+    {
+      "id": "super_admin-1794715256805",
+      "username": "shaeriyati",
+      "name": "Shaeriyati (Super Admin)",
+      "email": "shaeriyati@gmail.com",
+      "passwordHash": "$2b$10$N.qGToR5oCUeW080ZBSI3eCzCfwf06GiAho0cQW/J3fciGXPQhtSK",
+      "role": "super_admin",
+      "nip": "-",
+      "avatarColor": "#4F46E5",
+      "isActive": true,
+      "xp": 0,
+      "level": 1,
+      "tier": "Marketing Beginner",
+      "studyMinutes": 0,
+      "badges": [],
+      "completedMissions": [],
+      "createdAt": "2026-11-15T04:00:56.908Z",
+      "lastLoginAt": "2026-11-15T04:00:57.023Z",
+      "lastLoginDevice": "API Client di Sistem Lain"
+    }
+  ],
+  "classes": [
+    {
+      "id": "cls-xpm1",
+      "name": "X PM 1",
+      "grade": "Kelas X",
+      "major": "Program Keahlian Pemasaran",
+      "homeroomTeacher": "Ratna Sari, S.E., M.Pd.",
+      "academicYearId": "acad-2026-ganjil"
+    },
+    {
+      "id": "cls-xpm2",
+      "name": "X PM 2",
+      "grade": "Kelas X",
+      "major": "Program Keahlian Pemasaran",
+      "homeroomTeacher": "Dimas Prasetyo, S.Kom., M.M.",
+      "academicYearId": "acad-2026-ganjil"
+    }
+  ],
+  "academicSettings": [
+    {
+      "id": "acad-2026-ganjil",
+      "schoolName": "SMK Negeri 1 Nusantara Bisnis & Pemasaran",
+      "schoolAddress": "Jl. Pendidikan Raya No. 88, Jakarta Selatan 12410",
+      "npsn": "20109482",
+      "principalName": "Drs. H. Ahmad Fauzan, M.M.",
+      "subjectTeacherName": "Ratna Sari, S.E., M.Pd.",
+      "subjectName": "Dasar-Dasar Pemasaran",
+      "academicYear": "2026/2027",
+      "semester": "Ganjil",
+      "isActive": true
+    },
+    {
+      "id": "acad-2026-genap",
+      "schoolName": "SMK Negeri 1 Nusantara Bisnis & Pemasaran",
+      "schoolAddress": "Jl. Pendidikan Raya No. 88, Jakarta Selatan 12410",
+      "npsn": "20109482",
+      "principalName": "Drs. H. Ahmad Fauzan, M.M.",
+      "subjectTeacherName": "Ratna Sari, S.E., M.Pd.",
+      "subjectName": "Dasar-Dasar Pemasaran",
+      "academicYear": "2026/2027",
+      "semester": "Genap",
+      "isActive": false
+    }
+  ],
+  "gradeWeights": {
+    "knowledge": 35,
+    "skill": 25,
+    "project": 20,
+    "game": 20
+  },
+  "chapters": [
+    {
+      "id": "bab-1",
+      "number": 1,
+      "title": "Proses Bisnis di Bidang Pemasaran Ritel",
+      "subtitle": "Memahami alur operasional toko ritel modern, merchandising, pengelolaan stok, hingga evaluasi penjualan.",
+      "coverImage": "/src/assets/images/chapter_retail_store_1794705062824.jpg",
+      "learningObjectives": [
+        "Menjelaskan pengertian bisnis, pemasaran, dan karakteristik utama bisnis ritel modern.",
+        "Mengidentifikasi jenis-jenis usaha ritel serta struktur organisasi toko ritel.",
+        "Menganalisis alur proses bisnis ritel mulai dari pengadaan barang, pengelolaan stok, display, hingga transaksi kasir.",
+        "Merancang strategi pemasaran ritel dan melakukan evaluasi kinerja bisnis toko."
+      ],
+      "learningOutcomes": [
+        "Peserta didik mampu memahami proses bisnis bidang pemasaran secara menyeluruh pada berbagai model usaha ritel modern dan tradisional."
+      ],
+      "infographicTitle": "Rantai Nilai Proses Bisnis Pemasaran Ritel",
+      "infographicNodes": [
+        {
+          "label": "01. Pengadaan",
+          "value": "Purchasing",
+          "detail": "Seleksi pemasok, negosiasi HPP, dan pemesanan stok sesuai peramalan permintaan."
+        },
+        {
+          "label": "02. Penerimaan & Stok",
+          "value": "Inventory",
+          "detail": "Quality control barang datang, pencatatan SKU, sistem FIFO/FEFO, dan stok pengaman."
+        },
+        {
+          "label": "03. Merchandising",
+          "value": "Display",
+          "detail": "Penataan planogram, eye-level placement, signage harga, dan rotasi produk unggulan."
+        },
+        {
+          "label": "04. Pelayanan & POS",
+          "value": "Checkout",
+          "detail": "Sambutan hangat, konsultasi produk, pemindaian barcode cepat, dan akurasi transaksi."
+        },
+        {
+          "label": "05. Evaluasi",
+          "value": "Analytics",
+          "detail": "Audit margin kotor, inventory turnover ratio, dan indeks kepuasan pelanggan."
+        }
+      ],
+      "videoLesson": {
+        "title": "Video Interaktif: Anatomi Operasional Bisnis Ritel Modern",
+        "instructor": "Ibu Ratna Sari, S.E., M.Pd.",
+        "durationLabel": "14:20",
+        "slides": [
+          {
+            "timestamp": "00:00",
+            "heading": "Hakikat Bisnis & Pemasaran Ritel",
+            "bullets": [
+              "Bisnis ritel adalah mata rantai distribusi terakhir yang menjual barang/jasa langsung ke konsumen akhir.",
+              "Nilai tambah ritel: kemudahan akses, variasi produk, pemecahan kemasan besar ke eceran, dan layanan pelanggan."
+            ],
+            "visualNote": "Skema saluran distribusi: Produsen -> Distributor -> Peritel -> Konsumen Akhir."
+          },
+          {
+            "timestamp": "04:15",
+            "heading": "Struktur Organisasi & Pembagian Tugas Toko",
+            "bullets": [
+              "Store Manager bertanggung jawab atas target omzet, profitabilitas, dan kepatuhan SOP.",
+              "Retail Supervisor mengawasi shift operasional, kasir, pramuniaga, dan merchandiser."
+            ],
+            "visualNote": "Bagan hierarki toko ritel skala minimarket hingga hypermarket."
+          },
+          {
+            "timestamp": "09:10",
+            "heading": "Pengelolaan Barang Dagangan & Stok (FIFO/FEFO)",
+            "bullets": [
+              "FIFO (First In, First Out) untuk barang tahan lama; FEFO (First Expired, First Out) wajib untuk makanan/minuman.",
+              "Reorder Point (ROP) mencegah kekosongan barang (stockout) maupun penumpukan modal mati (overstock)."
+            ],
+            "visualNote": "Simulasi rak display dengan label tanggal kedaluwarsa dan stok minimum."
+          }
+        ]
+      },
+      "caseStudy": {
+        "title": "Studi Kasus: Minimarket Nusantara Mart Menghadapi Penurunan Margin & Stockout",
+        "context": "Minimarket Nusantara Mart berada dekat kawasan sekolah dan perumahan. Dalam dua bulan terakhir, penjualan minuman dingin dan alat tulis meningkat 35%, namun stok sering habis pada akhir pekan sementara produk kosmetik premium menumpuk di gudang.",
+        "challenge": "Sebagai calon manajer toko, bagaimana langkah perbaikan pengelolaan barang dagangan, penataan rak, dan strategi promosi agar perputaran stok kembali sehat?",
+        "questions": [
+          "Metode rotasi dan perhitungan stok apa yang harus diterapkan pada produk minuman dan kosmetik?",
+          "Bagaimana strategi bundling atau display ulang untuk menggerakkan produk yang lambat terjual (slow-moving)?"
+        ],
+        "modelSolution": "Terapkan analisis ABC-XYZ untuk memprioritaskan safety stock produk fast-moving (minuman & ATK), gunakan prinsip FEFO untuk minuman, pindahkan kosmetik ke area eye-level dekat kasir dengan promo bundling akhir pekan, dan evaluasi mingguan melalui laporan POS."
+      },
+      "interactiveActivityId": "store_manager",
+      "interactiveActivityTitle": "Simulasi Mini Manajer Toko Ritel",
+      "interactiveActivityDesc": "Atur alokasi stok, margin harga, dan strategi display untuk memaksimalkan laba & kepuasan pembeli.",
+      "summaryPoints": [
+        "Pemasaran ritel menghubungkan produsen dengan konsumen akhir melalui penciptaan nilai tempat, waktu, dan kepemilikan.",
+        "Usaha ritel terbagi menjadi ritel tradisional (warung, toko kelontong) dan ritel modern (minimarket, supermarket, department store, specialty store).",
+        "Keberhasilan bisnis ritel bergantung pada keseimbangan pengelolaan barang dagangan, efisiensi stok, pelayanan prima, akurasi POS, dan evaluasi berkala."
+      ],
+      "reflectionPrompts": [
+        "Bagian proses bisnis ritel mana yang menurutmu paling menentukan kepuasan pelanggan di toko dekat rumahmu?",
+        "Jika kamu mengelola koperasi sekolah, perbaikan pertama apa yang akan kamu lakukan pada penataan barang dan stok?"
+      ],
+      "subchapters": [
+        {
+          "id": "b1-1",
+          "order": 1,
+          "title": "Pengertian Bisnis dan Pemasaran",
+          "summary": "Konsep dasar aktivitas penciptaan nilai ekonomi dan pemenuhan kebutuhan konsumen.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Pemasaran bukan sekadar menjual, melainkan memahami kebutuhan pelanggan dan menciptakan nilai berkelanjutan.",
+          "content": [
+            "Bisnis adalah seluruh kegiatan terorganisasi yang menghasilkan serta mendistribusikan barang atau jasa untuk memenuhi kebutuhan masyarakat dan memperoleh laba secara berkelanjutan.",
+            "Pemasaran (marketing) adalah proses sosial dan manajerial di mana individu maupun organisasi memperoleh apa yang mereka butuhkan dan inginkan melalui penciptaan, penawaran, serta pertukaran produk bernilai.",
+            "Konsep inti pemasaran meliputi kebutuhan (needs), keinginan (wants), permintaan (demands), nilai pelanggan (customer value), dan kepuasan pelanggan (customer satisfaction)."
+          ]
+        },
+        {
+          "id": "b1-2",
+          "order": 2,
+          "title": "Pengertian Pemasaran Ritel",
+          "summary": "Peran strategis penjualan eceran sebagai ujung tombak distribusi modern.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Peritel berfungsi memecah kuantitas grosir menjadi satuan eceran yang mudah dijangkau konsumen.",
+          "content": [
+            "Pemasaran ritel (retailing) mencakup seluruh aktivitas penjualan barang dan jasa secara langsung kepada konsumen akhir untuk penggunaan pribadi maupun rumah tangga, bukan untuk dijual kembali.",
+            "Fungsi utama peritel antara lain menyediakan keragaman produk (assortment), memecah kemasan besar (breaking bulk), menjaga ketersediaan stok, dan memberikan layanan informasi produk."
+          ]
+        },
+        {
+          "id": "b1-3",
+          "order": 3,
+          "title": "Karakteristik Bisnis Ritel",
+          "summary": "Ciri khas operasional ritel mulai dari volume transaksi tinggi hingga kedekatan lokasi.",
+          "durationMinutes": 10,
+          "keyTakeaway": "Bisnis ritel dicirikan oleh pembelian bernilai kecil namun berulang (high frequency, low ticket size).",
+          "content": [
+            "Karakteristik bisnis ritel meliputi: transaksi langsung dengan konsumen akhir, pembelian dalam unit kecil, sensitivitas terhadap lokasi dan kenyamanan toko, serta tingginya pengaruh tampilan visual (visual merchandising).",
+            "Selain itu, bisnis ritel sangat dipengaruhi musim belanja, daya beli lokal, dan kecepatan layanan transaksi."
+          ]
+        },
+        {
+          "id": "b1-4",
+          "order": 4,
+          "title": "Jenis-Jenis Usaha Ritel",
+          "summary": "Klasifikasi format ritel berdasarkan skala, kepemilikan, dan lini produk.",
+          "durationMinutes": 15,
+          "keyTakeaway": "Setiap format ritel memiliki target segmen dan strategi margin-perputaran yang berbeda.",
+          "content": [
+            "Berdasarkan format fisiknya, usaha ritel terdiri dari: Toko Kelontong/Warung Tradisional, Minimarket (100–400 m²), Supermarket (400–5.000 m²), Hypermarket (>5.000 m²), Department Store, dan Specialty Store (toko khusus elektronik, buku, busana).",
+            "Berdasarkan kepemilikan, ritel dibedakan menjadi toko independen, jaringan waralaba (franchise), dan jaringan toko terpusat (corporate chain store)."
+          ]
+        },
+        {
+          "id": "b1-5",
+          "order": 5,
+          "title": "Struktur Organisasi Bisnis Ritel",
+          "summary": "Hierarki peran dan tanggung jawab dari Store Manager hingga Kasir.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Kejelasan struktur organisasi menjamin kelancaran shift toko dan akuntabilitas stok.",
+          "content": [
+            "Struktur organisasi ritel umumnya dipimpin oleh Store Manager yang membawahi Assistant Manager atau Retail Supervisor.",
+            "Di tingkat operasional lapangan terdapat Merchandiser (penataan barang), Kasir (transaksi pembayaran), Pramuniaga/Sales Associate (pelayanan lantai toko), serta Staf Gudang/Receiving."
+          ]
+        },
+        {
+          "id": "b1-6",
+          "order": 6,
+          "title": "Proses Bisnis Pemasaran Ritel",
+          "summary": "Siklus end-to-end operasional toko dari hulu pengadaan hingga purnajual.",
+          "durationMinutes": 15,
+          "keyTakeaway": "Proses bisnis ritel yang terintegrasi menekan biaya operasional sekaligus mempercepat perputaran kas.",
+          "content": [
+            "Proses bisnis pemasaran ritel berjalan secara berkesinambungan: riset kebutuhan lokal -> perencanaan assortment -> pembelian ke pemasok -> penerimaan & pelabelan -> display di rak -> promosi & pelayanan -> transaksi kasir -> analisis penjualan."
+          ]
+        },
+        {
+          "id": "b1-7",
+          "order": 7,
+          "title": "Pengelolaan Barang Dagangan",
+          "summary": "Teknik merchandising, planogram, dan penentuan ragam produk (product mix).",
+          "durationMinutes": 15,
+          "keyTakeaway": "Penempatan produk pada level pandangan mata (eye-level) mampu meningkatkan penjualan hingga 30%.",
+          "content": [
+            "Pengelolaan barang dagangan (merchandising) adalah upaya menghadirkan produk yang tepat, di tempat yang tepat, pada waktu yang tepat, dengan jumlah dan harga yang tepat.",
+            "Pengaturan tata letak menggunakan planogram memastikan kategori produk tertata logis, mudah ditemukan, dan mendorong pembelian impulsif di area kasir."
+          ]
+        },
+        {
+          "id": "b1-8",
+          "order": 8,
+          "title": "Pelayanan Pelanggan",
+          "summary": "Standar keramahan dan pendampingan pembeli di area penjualan.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Kesan pertama dalam 10 detik pertama menentukan kenyamanan pelanggan berbelanja.",
+          "content": [
+            "Pelayanan pelanggan di lantai toko mencakup sapaan ramah, kesiapan membantu mencari produk, pemberian informasi promo yang akurat, dan menjaga kebersihan koridor belanja."
+          ]
+        },
+        {
+          "id": "b1-9",
+          "order": 9,
+          "title": "Transaksi Penjualan",
+          "summary": "Prosedur Point of Sale (POS), ketelitian hitung, dan bukti pembayaran.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Kecepatan dan ketepatan di meja kasir mencegah antrean panjang serta menjaga kepercayaan pelanggan.",
+          "content": [
+            "Transaksi penjualan merupakan momen konversi akhir di toko. Kasir harus memastikan pemindaian barcode akurat, mengonfirmasi promo atau keanggotaan, menerima pembayaran tunai maupun nontunai dengan aman, dan menyerahkan struk belanja."
+          ]
+        },
+        {
+          "id": "b1-10",
+          "order": 10,
+          "title": "Pengelolaan Stok Barang",
+          "summary": "Pengendalian persediaan, stok opname, FIFO/FEFO, dan pencegahan shrinkage.",
+          "durationMinutes": 15,
+          "keyTakeaway": "Stok opname rutin mendeteksi selisih fisik vs sistem lebih dini.",
+          "content": [
+            "Pengelolaan stok mencegah dua risiko utama: kehabisan barang (kehilangan omzet) dan kelebihan stok (biaya simpan tinggi & kedaluwarsa).",
+            "Penerapan metode FIFO (First In First Out) dan FEFO (First Expired First Out) wajib dipatuhi bersama jadwal stok opname harian maupun bulanan."
+          ]
+        },
+        {
+          "id": "b1-11",
+          "order": 11,
+          "title": "Strategi Pemasaran Ritel",
+          "summary": "Bauran ritel (retail mix): produk, harga, lokasi, promosi, atmosfer toko.",
+          "durationMinutes": 15,
+          "keyTakeaway": "Atmosfer toko (pencahayaan, aroma, musik, tata ruang) memengaruhi durasi kunjungan pembeli.",
+          "content": [
+            "Strategi pemasaran ritel bertumpu pada Retail Mix 6P: Product assortment, Price strategy (everyday low price vs high-low promo), Place/location, Promotion (katalog mingguan, bundling, loyalty card), Presentation/Atmosphere, dan People."
+          ]
+        },
+        {
+          "id": "b1-12",
+          "order": 12,
+          "title": "Evaluasi Proses Bisnis Ritel",
+          "summary": "Pengukuran KPI toko: omzet, gross margin, basket size, dan konversi.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Keputusan manajer ritel yang unggul selalu berbasis data transaksi harian.",
+          "content": [
+            "Evaluasi bisnis ritel dilakukan melalui metrik utama: Sales Growth, Gross Margin Return on Investment (GMROI), Average Basket Size (rata-rata nilai belanja per struk), dan Customer Satisfaction Index."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bab-2",
+      "number": 2,
+      "title": "Perkembangan Teknologi dan Isu-Isu Terkait Pemasaran Ritel",
+      "subtitle": "Transformasi digital ritel dari toko fisik menuju ekosistem omnichannel, AI, CRM, dan keamanan data.",
+      "coverImage": "/src/assets/images/chapter_digital_commerce_1794705063968.jpg",
+      "learningObjectives": [
+        "Menjelaskan evolusi pemasaran ritel dari era tradisional ke era digital cerdas.",
+        "Membedakan model e-commerce, marketplace, dan social commerce.",
+        "Menerapkan strategi digital marketing, omnichannel, cashless payment, dan CRM.",
+        "Menganalisis isu perlindungan data konsumen serta etika pemasaran digital."
+      ],
+      "learningOutcomes": [
+        "Peserta didik mampu memahami perkembangan teknologi pemasaran ritel modern, transaksi digital, serta isu etika dan perlindungan konsumen."
+      ],
+      "infographicTitle": "Evolusi Ekosistem Ritel Digital & Omnichannel",
+      "infographicNodes": [
+        {
+          "label": "Era 1.0–2.0",
+          "value": "Offline & Modern",
+          "detail": "Pasar tradisional bertransformasi menuju supermarket ber-barcode dan POS terkomputerisasi."
+        },
+        {
+          "label": "Era 3.0",
+          "value": "E-Commerce",
+          "detail": "Kehadiran website toko online, marketplace nasional, dan transaksi lintas pulau."
+        },
+        {
+          "label": "Era 4.0",
+          "value": "Social & Live",
+          "detail": "Social commerce, live shopping interaktif, dan pembayaran QRIS instan."
+        },
+        {
+          "label": "Era 5.0",
+          "value": "Omnichannel + AI",
+          "detail": "Integrasi toko fisik & digital, personalisasi AI, serta manajemen loyalitas berbasis CRM."
+        }
+      ],
+      "videoLesson": {
+        "title": "Video Interaktif: Transformasi Digital, Omnichannel & Etika Data Konsumen",
+        "instructor": "Bapak Dimas Prasetyo, S.Kom., M.M.",
+        "durationLabel": "16:05",
+        "slides": [
+          {
+            "timestamp": "00:00",
+            "heading": "E-Commerce vs Marketplace vs Social Commerce",
+            "bullets": [
+              "E-Commerce: toko daring mandiri dengan kontrol penuh atas merek dan database pelanggan.",
+              "Marketplace: platform perantara multi-penjual dengan trafik tinggi dan sistem rekber.",
+              "Social Commerce: transaksi terjadi langsung di dalam ekosistem media sosial (live commerce & katalog sosial)."
+            ],
+            "visualNote": "Matriks perbandingan kontrol merek, biaya komisi, dan akuisisi trafik."
+          },
+          {
+            "timestamp": "06:40",
+            "heading": "AI, Cashless Payment & CRM Modern",
+            "bullets": [
+              "AI membantu segmentasi otomatis, rekomendasi produk personal, dan prediksi permintaan stok.",
+              "QRIS dan e-wallet mempercepat checkout tanpa uang kembalian dan mencatat histori transaksi."
+            ],
+            "visualNote": "Alur pelanggan memindai QRIS lalu otomatis menerima poin loyalitas di aplikasi CRM."
+          },
+          {
+            "timestamp": "12:00",
+            "heading": "UU PDP & Etika Pemasaran Digital",
+            "bullets": [
+              "Persetujuan eksplisit (consent) wajib diperoleh sebelum mengirim pesan promosi atau mengolah nomor ponsel pelanggan.",
+              "Hindari klaim palsu (clickbait), ulasan fiktif (fake review), dan harga jebakan."
+            ],
+            "visualNote": "Daftar periksa kepatuhan perlindungan data pribadi konsumen."
+          }
+        ]
+      },
+      "caseStudy": {
+        "title": "Studi Kasus: Toko Busana Batik Lokal Menuju Strategi Omnichannel",
+        "context": "Butik Batik Sekar memiliki toko fisik ramai di pusat kota, namun pembeli luar kota kesulitan memesan. Tim mencoba berjualan lewat media sosial, tetapi sering terjadi selisih stok antara gudang toko fisik dan pesanan online serta keluhan balasan chat yang lambat.",
+        "challenge": "Rancang solusi integrasi omnichannel, pembayaran nontunai, dan strategi konten media sosial yang aman secara etika digital.",
+        "questions": [
+          "Bagaimana menyinkronkan stok toko fisik dan marketplace agar tidak terjadi pembatalan pesanan?",
+          "Fitur CRM dan kanal promosi digital apa yang paling efektif untuk meningkatkan pembelian ulang?"
+        ],
+        "modelSolution": "Gunakan POS cloud terintegrasi dengan katalog marketplace (single inventory pool), aktifkan QRIS dan virtual account untuk pembayaran cepat, terapkan CRM WhatsApp Business resmi dengan persetujuan pelanggan untuk broadcast koleksi baru, serta gelar sesi live shopping mingguan yang transparan."
+      },
+      "interactiveActivityId": "online_shop",
+      "interactiveActivityTitle": "Studio Perancangan Toko Online & Kampanye Sosial",
+      "interactiveActivityDesc": "Susun etalase toko online, pilih kanal promosi digital, dan uji kesiapan omnichannel.",
+      "summaryPoints": [
+        "Digitalisasi memungkinkan ritel menggabungkan pengalaman sentuh fisik di toko dengan kecepatan transaksi daring (omnichannel).",
+        "Pemanfaatan AI, QRIS/cashless, dan CRM meningkatkan efisiensi serta retensi pelanggan jangka panjang.",
+        "Kepercayaan konsumen dijaga melalui perlindungan data pribadi yang ketat dan praktik promosi jujur."
+      ],
+      "reflectionPrompts": [
+        "Bagaimana pengalaman pribadimu saat berbelanja omnichannel (misal pesan di aplikasi lalu ambil di toko)?",
+        "Mengapa peritel tidak boleh membagikan data nomor telepon pelanggan ke pihak lain tanpa izin?"
+      ],
+      "subchapters": [
+        {
+          "id": "b2-1",
+          "order": 1,
+          "title": "Sejarah Perkembangan Pemasaran Ritel",
+          "summary": "Perjalanan ritel dari barter dan pasar tradisional hingga toko pintar.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Setiap gelombang teknologi mengubah cara konsumen menemukan, membandingkan, dan membayar produk.",
+          "content": [
+            "Pemasaran ritel berevolusi dari pasar lokal tatap muka, munculnya department store abad ke-19, konsep swalayan (self-service) abad ke-20, hingga era komputerisasi kasir dan toko digital abad ke-21."
+          ]
+        },
+        {
+          "id": "b2-2",
+          "order": 2,
+          "title": "Transformasi Digital dalam Pemasaran",
+          "summary": "Perubahan perilaku konsumen dan digitalisasi proses bisnis toko.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Transformasi digital bukan hanya memakai media sosial, tetapi mendigitalkan data pelanggan dan stok.",
+          "content": [
+            "Transformasi digital mendorong peritel mengadopsi sistem kasir berbasis awan (cloud POS), pemasaran berbasis data, dan pengalaman belanja lintas perangkat."
+          ]
+        },
+        {
+          "id": "b2-3",
+          "order": 3,
+          "title": "E-Commerce",
+          "summary": "Model perdagangan elektronik mandiri (website dan aplikasi merek sendiri).",
+          "durationMinutes": 12,
+          "keyTakeaway": "Website e-commerce memberi kendali penuh atas desain merek dan kepemilikan data pelanggan.",
+          "content": [
+            "E-commerce mencakup seluruh transaksi jual beli melalui jaringan internet, baik B2C (Business to Consumer), B2B, maupun C2C, dengan toko web mandiri sebagai aset digital jangka panjang."
+          ]
+        },
+        {
+          "id": "b2-4",
+          "order": 4,
+          "title": "Marketplace",
+          "summary": "Ekosistem platform bersama yang mempertemukan jutaan penjual dan pembeli.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Marketplace mempercepat akuisisi pembeli baru namun menuntut persaingan harga dan skor toko yang ketat.",
+          "content": [
+            "Marketplace menyediakan infrastruktur pencarian, ulasan produk, promosi flash sale, logistik terintegrasi, dan sistem rekening bersama sehingga memudahkan UMKM maupun ritel besar menjangkau pasar nasional."
+          ]
+        },
+        {
+          "id": "b2-5",
+          "order": 5,
+          "title": "Social Commerce",
+          "summary": "Perpaduan interaksi media sosial, konten kreator, dan transaksi langsung.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Live shopping menggabungkan hiburan, demonstrasi produk real-time, dan urgensi promo.",
+          "content": [
+            "Social commerce memungkinkan penemuan produk secara organik lewat video pendek, rekomendasi kreator, serta transaksi langsung melalui keranjang belanja di dalam aplikasi sosial."
+          ]
+        },
+        {
+          "id": "b2-6",
+          "order": 6,
+          "title": "Digital Marketing",
+          "summary": "Strategi SEO, SEM, konten media sosial, iklan berbayar, dan email marketing.",
+          "durationMinutes": 15,
+          "keyTakeaway": "Digital marketing unggul karena setiap rupiah iklan dapat diukur efektivitasnya (ROI/ROAS).",
+          "content": [
+            "Digital marketing mencakup optimasi mesin pencari (SEO), iklan media sosial bertarget, pemasaran konten edukatif, dan kemitraan afiliasi untuk menarik trafik berkualitas."
+          ]
+        },
+        {
+          "id": "b2-7",
+          "order": 7,
+          "title": "Artificial Intelligence dalam Pemasaran",
+          "summary": "Personalisasi rekomendasi produk, peramalan permintaan, dan analitik cerdas.",
+          "durationMinutes": 12,
+          "keyTakeaway": "AI membantu pemasar memahami pola belanja tiap segmen secara akurat dan cepat.",
+          "content": [
+            "Kecerdasan buatan digunakan pada mesin rekomendasi (\"produk yang mungkin Anda suka\"), chatbot layanan cepat, penetapan harga dinamis, dan analisis sentimen ulasan pelanggan."
+          ]
+        },
+        {
+          "id": "b2-8",
+          "order": 8,
+          "title": "Omnichannel Marketing",
+          "summary": "Menyatukan pengalaman belanja toko fisik, web, aplikasi, dan media sosial.",
+          "durationMinutes": 14,
+          "keyTakeaway": "Konsumen mengharapkan harga, poin loyalitas, dan stok yang sinkron di semua kanal.",
+          "content": [
+            "Omnichannel menghadirkan pengalaman tanpa batas seperti fitur BOPIS (Buy Online, Pick Up in Store), pengembalian barang daring di gerai fisik, serta riwayat belanja terpadu."
+          ]
+        },
+        {
+          "id": "b2-9",
+          "order": 9,
+          "title": "Cashless Payment",
+          "summary": "QRIS, dompet digital, kartu nirsentuh, dan keamanan pembayaran digital.",
+          "durationMinutes": 10,
+          "keyTakeaway": "Pembayaran nontunai mempercepat antrean kasir dan meminimalkan risiko selisih uang tunai.",
+          "content": [
+            "Sistem pembayaran digital seperti QRIS standar nasional, e-wallet, kartu debit/kredit, dan virtual account mempermudah rekonsiliasi keuangan toko secara otomatis."
+          ]
+        },
+        {
+          "id": "b2-10",
+          "order": 10,
+          "title": "Customer Relationship Management (CRM)",
+          "summary": "Mengelola hubungan jangka panjang dan retensi pelanggan berbasis data.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Mempertahankan pelanggan lama jauh lebih hemat biaya daripada mencari pelanggan baru.",
+          "content": [
+            "CRM mencatat profil pelanggan, frekuensi kunjungan, produk favorit, hingga program poin keanggotaan untuk menghadirkan penawaran ulang tahun atau pengingat restock yang relevan."
+          ]
+        },
+        {
+          "id": "b2-11",
+          "order": 11,
+          "title": "Perlindungan Data Konsumen",
+          "summary": "Prinsip kerahasiaan data pribadi, persetujuan pengguna, dan keamanan sistem.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Data pelanggan adalah amanah hukum yang wajib dilindungi dari kebocoran dan penyalahgunaan.",
+          "content": [
+            "Sesuai prinsip perlindungan data pribadi, peritel wajib meminta persetujuan jelas saat mengumpulkan data, membatasi akses staf, dan mengamankan transaksi dari pencurian identitas."
+          ]
+        },
+        {
+          "id": "b2-12",
+          "order": 12,
+          "title": "Isu Etika dan Tantangan Pemasaran Digital",
+          "summary": "Menangkal iklan menyesatkan, spam, persaingan tidak sehat, dan disinformasi.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Reputasi merek digital dibangun lewat kejujuran spesifikasi produk dan transparansi harga.",
+          "content": [
+            "Tantangan etika digital meliputi larangan ulasan palsu, manipulasi harga coret, pelanggaran hak cipta konten kreatif, serta menjaga inklusivitas dan kejujuran klaim promosi."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bab-3",
+      "number": 3,
+      "title": "Profesi dan Peluang Usaha di Bidang Pemasaran Ritel",
+      "subtitle": "Menjelajahi jalur karier profesional di industri ritel hingga membangun model bisnis ritel mandiri.",
+      "coverImage": "/src/assets/images/chapter_career_team_1794705063640.jpg",
+      "learningObjectives": [
+        "Mengidentifikasi beragam profesi pemasaran ritel beserta tugas dan kompetensinya.",
+        "Membedakan jenjang karier operasional (Kasir, Sales, Merchandiser) hingga manajerial (Supervisor, Store Manager).",
+        "Menganalisis peluang bisnis ritel di lingkungan sekitar berbasis riset pasar sederhana.",
+        "Menyusun perencanaan usaha dan Business Model Canvas (BMC) ritel."
+      ],
+      "learningOutcomes": [
+        "Peserta didik mampu mengenali profil pekerjaan, profesi, serta peluang usaha di bidang pemasaran dan merancang rencana bisnis ritel sederhana."
+      ],
+      "infographicTitle": "Peta Jenjang Karier & Kewirausahaan Pemasaran Ritel",
+      "infographicNodes": [
+        {
+          "label": "Entry Level",
+          "value": "Kasir & Sales Promotion",
+          "detail": "Menguasai transaksi POS, standar pelayanan, dan pengenalan produk."
+        },
+        {
+          "label": "Spesialis",
+          "value": "Merchandiser & Content Creator",
+          "detail": "Mengelola visual display toko, stok rak, hingga produksi konten promosi digital."
+        },
+        {
+          "label": "Manajerial",
+          "value": "Retail Supervisor & Store Manager",
+          "detail": "Memimpin tim shift, audit target omzet, dan strategi profitabilitas cabang."
+        },
+        {
+          "label": "Wirausaha",
+          "value": "Retail Entrepreneur",
+          "detail": "Merancang peluang pasar, model bisnis mandiri, dan ekspansi jaringan toko."
+        }
+      ],
+      "videoLesson": {
+        "title": "Video Interaktif: Peta Profesi Ritel & Merancang Business Model Sederhana",
+        "instructor": "Ibu Ratna Sari, S.E., M.Pd.",
+        "durationLabel": "15:10",
+        "slides": [
+          {
+            "timestamp": "00:00",
+            "heading": "10 Profesi Utama Pemasaran Modern",
+            "bullets": [
+              "Lini Toko: Kasir, Sales Promotion, Customer Service, Merchandiser, Retail Supervisor, Store Manager.",
+              "Lini Korporat & Digital: Sales Executive, Digital Marketer, Content Creator."
+            ],
+            "visualNote": "Profil kompetensi teknis dan soft skill masing-masing profesi."
+          },
+          {
+            "timestamp": "07:20",
+            "heading": "Menangkap Peluang Usaha & Riset Pasar Lokal",
+            "bullets": [
+              "Amati masalah sehari-hari di sekitar sekolah atau perumahan untuk menemukan celah pasar (market gap).",
+              "Hitung estimasi modal awal, biaya operasional bulanan, dan titik impas (Break Even Point)."
+            ],
+            "visualNote": "Contoh analisis SWOT dan 9 blok Business Model Canvas toko camilan sehat SMK."
+          }
+        ]
+      },
+      "caseStudy": {
+        "title": "Studi Kasus: Merintis Usaha Ritel Minuman & Camilan Sehat Siswa SMK",
+        "context": "Sekelompok siswa kelas X Pemasaran melihat banyak teman sekolah membeli jajanan tinggi gula dan sering antre lama saat jam istirahat 15 menit.",
+        "challenge": "Susun rencana bisnis ritel sederhana dengan menentukan target pelanggan, proposisi nilai unik, kanal penjualan hybrid (booth + pre-order WhatsApp), serta pembagian peran tim.",
+        "questions": [
+          "Apa Value Proposition yang membedakan usaha ini dari kantin biasa?",
+          "Peran profesi apa saja yang dibutuhkan dalam tim berisi 4 siswa?"
+        ],
+        "modelSolution": "Value Proposition: paket camilan sehat siap ambil dalam 30 detik lewat sistem pre-order QRIS sebelum istirahat. Pembagian peran: 1 Store Manager/Keuangan, 1 Kasir & CS, 1 Merchandiser/Operasional Booth, 1 Digital Marketer & Content Creator."
+      },
+      "interactiveActivityId": "career_bmc",
+      "interactiveActivityTitle": "Simulasi Wawancara Kerja & Kanvas Model Bisnis",
+      "interactiveActivityDesc": "Uji kesiapan wawancara kerja profesi ritel sekaligus rancang 9 blok Business Model Canvas.",
+      "summaryPoints": [
+        "Industri pemasaran menawarkan jalur karier luas dari operasional toko hingga strategi digital.",
+        "Setiap profesi ritel menuntut integritas, ketelitian angka, komunikasi persuasif, dan orientasi solusi pelanggan.",
+        "Kewirausahaan ritel yang sukses diawali dari analisis peluang pasar yang nyata dan model bisnis yang terukur."
+      ],
+      "reflectionPrompts": [
+        "Profesi pemasaran mana yang paling sesuai dengan minat dan kekuatan dirimu saat ini?",
+        "Peluang usaha ritel sederhana apa yang paling potensial dijalankan di lingkungan tempat tinggalmu?"
+      ],
+      "subchapters": [
+        {
+          "id": "b3-1",
+          "order": 1,
+          "title": "Jenis Profesi Bidang Pemasaran",
+          "summary": "Gambaran ekosistem karier pemasaran ritel offline dan digital.",
+          "durationMinutes": 10,
+          "keyTakeaway": "Karier pemasaran menggabungkan keterampilan komunikasi, analisis data, dan kreativitas.",
+          "content": [
+            "Bidang pemasaran membuka peluang karier di sektor ritel modern, distributor, agensi digital, hingga perusahaan manufaktur dengan jalur pengembangan yang terstruktur."
+          ]
+        },
+        {
+          "id": "b3-2",
+          "order": 2,
+          "title": "Sales Promotion",
+          "summary": "Memperkenalkan produk baru, demo produk, dan mendorong konversi langsung.",
+          "durationMinutes": 10,
+          "keyTakeaway": "SPG/SPB unggul dalam kemampuan menarik perhatian dan menjelaskan manfaat produk secara singkat.",
+          "content": [
+            "Sales Promotion Officer bertugas menjalankan aktivitas promosi tatap muka di gerai atau pameran, membagikan sampel, menjelaskan keunggulan produk, dan mencatat tanggapan konsumen."
+          ]
+        },
+        {
+          "id": "b3-3",
+          "order": 3,
+          "title": "Sales Executive",
+          "summary": "Mencari klien baru, negosiasi kontrak B2B/B2C, dan mencapai target omzet.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Sales Executive berfokus pada pembinaan hubungan jangka panjang dan solusi kebutuhan klien.",
+          "content": [
+            "Sales Executive melakukan prospek pelanggan, presentasi penawaran bisnis, negosiasi harga serta termin pembayaran, hingga memantau kepuasan pasca-pembelian."
+          ]
+        },
+        {
+          "id": "b3-4",
+          "order": 4,
+          "title": "Retail Supervisor",
+          "summary": "Mengkoordinasikan tim operasional harian dan menjaga standar SOP toko.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Supervisor menjadi jembatan langsung antara strategi manajer dan eksekusi tim lantai toko.",
+          "content": [
+            "Retail Supervisor menyusun jadwal shift, memantau kebersihan serta ketersediaan rak, menangani eskalasi keluhan pelanggan, dan memastikan target harian tercapai."
+          ]
+        },
+        {
+          "id": "b3-5",
+          "order": 5,
+          "title": "Store Manager",
+          "summary": "Pemimpin penuh operasional, SDM, keuangan, dan pencapaian laba gerai.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Store Manager bertanggung jawab atas laporan laba-rugi toko dan pengembangan tim.",
+          "content": [
+            "Store Manager merancang target penjualan bulanan, mengevaluasi margin serta penyusutan barang (shrinkage), melakukan pembinaan staf, dan menjalin relasi dengan komunitas lokal."
+          ]
+        },
+        {
+          "id": "b3-6",
+          "order": 6,
+          "title": "Merchandiser",
+          "summary": "Arsitek tata letak rak, planogram, stok pajangan, dan materi promosi visual.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Merchandiser membuat toko berbicara secara visual sehingga barang cepat terjual.",
+          "content": [
+            "Merchandiser memastikan pemasangan label harga akurat, rotasi produk sesuai tanggal kedaluwarsa, penataan warna/kategori harmonis, dan evaluasi performa tiap ruang rak."
+          ]
+        },
+        {
+          "id": "b3-7",
+          "order": 7,
+          "title": "Digital Marketer",
+          "summary": "Pengelola kampanye iklan daring, SEO, analitik trafik, dan konversi online.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Digital Marketer mengambil keputusan optimasi iklan berdasarkan metrik CTR, CPC, dan ROAS.",
+          "content": [
+            "Digital Marketer merencanakan kampanye promosi lintas kanal digital, mengelola anggaran iklan berbayar, memantau corong konversi (funnel), dan mengoptimalkan akuisisi pelanggan."
+          ]
+        },
+        {
+          "id": "b3-8",
+          "order": 8,
+          "title": "Customer Service",
+          "summary": "Garda terdepan layanan informasi, konsultasi, dan penanganan komplain.",
+          "durationMinutes": 10,
+          "keyTakeaway": "Customer Service mengubah keluhan pelanggan menjadi peluang membangun loyalitas.",
+          "content": [
+            "Customer Service melayani pertanyaan pelanggan di gerai maupun kanal omnichannel, memproses penukaran/retur sesuai kebijakan, dan mendokumentasikan umpan balik pelanggan."
+          ]
+        },
+        {
+          "id": "b3-9",
+          "order": 9,
+          "title": "Kasir",
+          "summary": "Pengelola titik pembayaran akhir yang cepat, ramah, dan bebas selisih.",
+          "durationMinutes": 10,
+          "keyTakeaway": "Kasir membutuhkan integritas tinggi, ketelitian hitung, dan kecepatan operasional POS.",
+          "content": [
+            "Kasir melakukan pembukaan dan penutupan laci kas (closing shift), memindai barang dengan tepat, menginformasikan promo kasir, dan memastikan keamanan uang serta bukti bayar."
+          ]
+        },
+        {
+          "id": "b3-10",
+          "order": 10,
+          "title": "Content Creator",
+          "summary": "Pencipta materi visual, video pendek, dan copywriting persuasif untuk merek.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Konten yang autentik dan bernilai edukasi/hiburan mendorong interaksi organik.",
+          "content": [
+            "Content Creator meriset tren audiens, menulis naskah video pendek, memotret produk secara estetis, serta memandu sesi siaran langsung untuk meningkatkan kesadaran merek."
+          ]
+        },
+        {
+          "id": "b3-11",
+          "order": 11,
+          "title": "Peluang Bisnis Ritel",
+          "summary": "Mengidentifikasi ceruk pasar kebutuhan harian, hobi, dan layanan mikro.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Peluang bisnis lahir dari masalah pelanggan yang belum terlayani secara optimal.",
+          "content": [
+            "Peluang usaha ritel terbuka luas mulai dari toko kebutuhan pokok modern, ritel produk lokal/UMKM, kedai minuman grab-and-go, hingga toko spesialisasi daring (niche store)."
+          ]
+        },
+        {
+          "id": "b3-12",
+          "order": 12,
+          "title": "Perencanaan Usaha",
+          "summary": "Menyusun visi, kebutuhan modal, proyeksi arus kas, dan jadwal peluncuran.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Perencanaan usaha yang realistis mengurangi risiko kegagalan di 6 bulan pertama.",
+          "content": [
+            "Perencanaan usaha mencakup penentuan nama merek, lokasi/kanal jualan, daftar pemasok, perhitungan Harga Pokok Penjualan (HPP), margin keuntungan, dan rencana pemasaran awal."
+          ]
+        },
+        {
+          "id": "b3-13",
+          "order": 13,
+          "title": "Analisis Peluang Pasar",
+          "summary": "Riset target konsumen, pemetaan kompetitor, dan analisis SWOT sederhana.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Kenali siapa pembelimu dan mengapa mereka harus memilih tokomu dibanding pesaing.",
+          "content": [
+            "Analisis pasar menilai ukuran pasar potensial (TAM/SAM), daya beli segmen sasaran, kekuatan dan kelemahan kompetitor terdekat, serta keunikan nilai yang ditawarkan."
+          ]
+        },
+        {
+          "id": "b3-14",
+          "order": 14,
+          "title": "Business Model Sederhana",
+          "summary": "Merangkum logika penciptaan dan penangkapan nilai lewat Business Model Canvas.",
+          "durationMinutes": 14,
+          "keyTakeaway": "Business Model Canvas menyatukan aspek pelanggan, nilai produk, operasional, dan arus pendapatan dalam satu halaman.",
+          "content": [
+            "Model bisnis sederhana memetakan 9 elemen inti: Customer Segments, Value Propositions, Channels, Customer Relationships, Revenue Streams, Key Resources, Key Activities, Key Partnerships, dan Cost Structure."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bab-4",
+      "number": 4,
+      "title": "Kesehatan, Keselamatan dan Keamanan dalam Bekerja di Pemasaran Ritel",
+      "subtitle": "Penerapan K3 toko, ergonomi kerja, keamanan transaksi & pelanggan, pencegahan kehilangan, hingga tanggap darurat.",
+      "coverImage": "/src/assets/images/hero_marketverse_academy_1794705062946.jpg",
+      "learningObjectives": [
+        "Menjelaskan pengertian dan tujuan penerapan K3 di lingkungan pemasaran ritel.",
+        "Mengidentifikasi potensi bahaya fisik, ergonomi, kebersihan, serta keamanan transaksi.",
+        "Menerapkan prosedur pencegahan kecelakaan kerja dan pencegahan kehilangan barang (loss prevention).",
+        "Melaksanakan langkah penanganan keadaan darurat dan membangun budaya kerja aman."
+      ],
+      "learningOutcomes": [
+        "Peserta didik mampu menerapkan prinsip kesehatan, keselamatan, keamanan kerja (K3), dan budaya kerja profesional di tempat kerja ritel."
+      ],
+      "infographicTitle": "Empat Pilar Keamanan & Keselamatan Toko Ritel (K3)",
+      "infographicNodes": [
+        {
+          "label": "Pilar 1",
+          "value": "Keselamatan Fisik",
+          "detail": "Lantai bebas tumpahan, kabel tertata rapi, tangga stabil, dan jalur evakuasi tidak terhalang."
+        },
+        {
+          "label": "Pilar 2",
+          "value": "Kesehatan & Ergonomi",
+          "detail": "Teknik angkat beban lutut menekuk, postur berdiri kasir seimbang, serta sanitasi area makanan."
+        },
+        {
+          "label": "Pilar 3",
+          "value": "Keamanan Aset & Kas",
+          "detail": "Deteksi uang palsu, batas uang laci kasir, CCTV aktif, dan kontrol akses gudang."
+        },
+        {
+          "label": "Pilar 4",
+          "value": "Tanggap Darurat",
+          "detail": "Ketersediaan APAR terperiksa, kotak P3K lengkap, dan simulasi evakuasi kebakaran."
+        }
+      ],
+      "videoLesson": {
+        "title": "Video Interaktif: Audit Keselamatan Toko Ritel & Pencegahan Loss Prevention",
+        "instructor": "Bapak Dimas Prasetyo, S.Kom., M.M.",
+        "durationLabel": "13:45",
+        "slides": [
+          {
+            "timestamp": "00:00",
+            "heading": "Identifikasi Bahaya & Ergonomi Kerja Ritel",
+            "bullets": [
+              "Bahaya paling sering di toko: lantai licin, kardus menutup lorong, dan rak tinggi tanpa pengunci.",
+              "Angkat kardus berat dengan posisi punggung lurus dan bertumpu pada otot kaki."
+            ],
+            "visualNote": "Ilustrasi postur angkat beban yang benar vs berisiko cedera tulang belakang."
+          },
+          {
+            "timestamp": "07:00",
+            "heading": "Keamanan Transaksi, Pelanggan & Pencegahan Kehilangan",
+            "bullets": [
+              "Gunakan metode 3D (Dilihat, Diraba, Diterawang) serta sinar UV untuk memverifikasi uang tunai.",
+              "Lakukan sapaan ramah ke setiap pengunjung sebagai teknik pencegahan pencurian (shrinkage) yang sopan."
+            ],
+            "visualNote": "Denah titik buta toko dan posisi cermin cembung serta CCTV."
+          }
+        ]
+      },
+      "caseStudy": {
+        "title": "Studi Kasus: Insiden Tumpahan Minyak di Lorong & Antrean Padat Akhir Pekan",
+        "context": "Saat promo akhir pekan yang ramai, botol minyak goreng pecah di lorong 3. Di saat bersamaan, kasir menemukan satu lembar uang pecahan besar yang mencurigakan sementara pintu darurat gudang tertumpuk kardus kiriman baru.",
+        "challenge": "Tentukan urutan prioritas tindakan keselamatan dan keamanan yang harus diambil tim toko tanpa memicu kepanikan pelanggan.",
+        "questions": [
+          "Tindakan K3 darurat apa yang harus dilakukan dalam 2 menit pertama di lorong 3?",
+          "Bagaimana prosedur aman menangani dugaan uang palsu sekaligus membersihkan jalur evakuasi gudang?"
+        ],
+        "modelSolution": "Segera amankan lorong 3 dengan memasang papan peringatan \"Lantai Licin\" dan petugas berjaga sambil membersihkan pecahan kaca memakai sarung tangan tebal. Kasir memanggil Supervisor secara diskret (kode komunikasi internal) untuk verifikasi UV tanpa mempermalukan pembeli. Staf gudang langsung memindahkan tumpukan kardus dari pintu darurat ke zona staging."
+      },
+      "interactiveActivityId": "k3_inspector",
+      "interactiveActivityTitle": "Simulasi Inspeksi Keselamatan Toko (K3 Audit)",
+      "interactiveActivityDesc": "Temukan titik bahaya tersembunyi di denah toko dan tentukan tindakan koreksi standar SOP.",
+      "summaryPoints": [
+        "K3 melindungi pekerja, pelanggan, sekaligus aset toko dari kecelakaan kerja dan kerugian operasional.",
+        "Ergonomi kerja dan kebersihan toko menjaga produktivitas jangka panjang staf ritel.",
+        "Keamanan transaksi dan jalur evakuasi bebas hambatan wajib diperiksa setiap pembukaan dan penutupan shift."
+      ],
+      "reflectionPrompts": [
+        "Pernahkah kamu melihat kondisi berisiko di toko atau minimarket (misal kabel melintang atau dus menumpuk)? Bagaimana seharusnya staf memperbaikinya?",
+        "Mengapa sapaan ramah pramuniaga juga efektif untuk keamanan pencegahan kehilangan barang?"
+      ],
+      "subchapters": [
+        {
+          "id": "b4-1",
+          "order": 1,
+          "title": "Pengertian K3",
+          "summary": "Definisi Kesehatan, Keselamatan, dan Keamanan Kerja di sektor ritel.",
+          "durationMinutes": 10,
+          "keyTakeaway": "K3 adalah upaya sistematis menjamin keutuhan fisik, mental, dan keamanan lingkungan kerja.",
+          "content": [
+            "K3 dalam pemasaran ritel mencakup perlindungan bagi seluruh karyawan, konsumen yang berkunjung, serta keamanan barang dagangan dan fasilitas toko."
+          ]
+        },
+        {
+          "id": "b4-2",
+          "order": 2,
+          "title": "Tujuan Penerapan K3",
+          "summary": "Mencegah kecelakaan, menjaga kesehatan staf, dan meningkatkan kepercayaan publik.",
+          "durationMinutes": 10,
+          "keyTakeaway": "Lingkungan toko yang aman menciptakan kenyamanan belanja dan menekan biaya kerugian insiden.",
+          "content": [
+            "Tujuan K3 antara lain mewujudkan nihil kecelakaan (zero accident), mencegah penyakit akibat kerja, melindungi aset perusahaan, dan memenuhi regulasi ketenagakerjaan."
+          ]
+        },
+        {
+          "id": "b4-3",
+          "order": 3,
+          "title": "Identifikasi Bahaya di Tempat Kerja",
+          "summary": "Mengenali hazard fisik, mekanis, listrik, kimia pembersih, hingga psikososial.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Setiap staf harus peka melaporkan potensi bahaya sebelum berubah menjadi kecelakaan.",
+          "content": [
+            "Sumber bahaya di toko meliputi lantai basah, kabel terkelupas, cutter yang dibiarkan terbuka, rak pajangan goyang, serta paparan bahan kimia pembersih."
+          ]
+        },
+        {
+          "id": "b4-4",
+          "order": 4,
+          "title": "Pencegahan Kecelakaan Kerja",
+          "summary": "Penerapan SOP alat bantu, rambu keselamatan, dan inspeksi berkala.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Pencegahan selalu dimulai dari kepatuhan memakai alat pelindung diri (APD) yang sesuai di gudang.",
+          "content": [
+            "Gunakan sepatu anti-selip, sarung tangan saat membongkar kardus, tangga lipat yang terkunci saat meraih rak atas, dan selalu pasang rambu lantai basah saat mengepel."
+          ]
+        },
+        {
+          "id": "b4-5",
+          "order": 5,
+          "title": "Ergonomi Kerja",
+          "summary": "Menyesuaikan beban kerja, postur tubuh kasir, dan teknik angkat beban.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Ergonomi yang baik mencegah nyeri punggung, kelelahan otot, dan cedera berulang.",
+          "content": [
+            "Atur ketinggian meja kasir agar pergelangan tangan netral, gunakan alas kaki empuk bagi petugas yang berdiri lama, dan angkat barang berat dengan menekuk lutut bukan membungkukkan punggung."
+          ]
+        },
+        {
+          "id": "b4-6",
+          "order": 6,
+          "title": "Kebersihan Lingkungan Toko",
+          "summary": "Penerapan budaya 5R (Ringkas, Rapi, Resik, Rawat, Rajin) di area ritel.",
+          "durationMinutes": 10,
+          "keyTakeaway": "Kebersihan toko mencerminkan kualitas produk dan profesionalisme pengelola.",
+          "content": [
+            "Penerapan 5R memastikan tidak ada sampah kemasan di lorong belanja, area makanan segar bebas hama, dan peralatan kebersihan tersimpan di ruang khusus."
+          ]
+        },
+        {
+          "id": "b4-7",
+          "order": 7,
+          "title": "Keselamatan Penyimpanan Barang",
+          "summary": "Batas tinggi tumpukan gudang, distribusi beban rak, dan pemisahan bahan kimia.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Barang berat wajib ditempatkan di rak paling bawah untuk menjaga titik pusat gravitasi.",
+          "content": [
+            "Simpan produk pangan terpisah dari bahan kimia (deterjen/pestisida), batasi tinggi tumpukan palet agar tidak roboh, dan jaga jarak aman dari sprinkler pemadam api."
+          ]
+        },
+        {
+          "id": "b4-8",
+          "order": 8,
+          "title": "Keamanan Transaksi",
+          "summary": "Deteksi uang palsu, pengelolaan kas laci, dan keamanan terminal pembayaran digital.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Lakukan penyetoran kas berkala (cash drop) jika saldo laci kasir melampaui batas aman.",
+          "content": [
+            "Kasir wajib memverifikasi keaslian uang kertas dengan lampu UV dan metode 3D, menjaga kerahasiaan PIN pelanggan, serta memastikan nominal QRIS sudah masuk sebelum menyerahkan barang."
+          ]
+        },
+        {
+          "id": "b4-9",
+          "order": 9,
+          "title": "Keamanan Pelanggan",
+          "summary": "Menjaga koridor aman bagi anak-anak, lansia, dan privasi pengunjung.",
+          "durationMinutes": 10,
+          "keyTakeaway": "Pelanggan yang merasa aman akan betah berbelanja lebih lama bersama keluarganya.",
+          "content": [
+            "Pastikan sudut rak tajam diberi pelindung, troli terparkir rapi, pencahayaan area parkir memadai, dan kamera pengawas berfungsi baik di ruang publik."
+          ]
+        },
+        {
+          "id": "b4-10",
+          "order": 10,
+          "title": "Pencegahan Kehilangan Barang",
+          "summary": "Strategi menekan shrinkage akibat pencurian, kesalahan administrasi, atau kerusakan.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Kontrol stok rutin dan kewaspadaan layanan ramah adalah pertahanan terbaik mencegah kehilangan.",
+          "content": [
+            "Kehilangan barang (shrinkage) ditekan melalui tag keamanan EAS pada barang bernilai tinggi, cermin cembung di sudut tersembunyi, serta verifikasi surat jalan saat penerimaan barang pemasok."
+          ]
+        },
+        {
+          "id": "b4-11",
+          "order": 11,
+          "title": "Penanganan Keadaan Darurat",
+          "summary": "Prosedur kebakaran, pemadaman listrik, gempa bumi, dan pertolongan pertama P3K.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Pastikan jalur evakuasi dan lokasi APAR diketahui seluruh karyawan tanpa terkecuali.",
+          "content": [
+            "Dalam keadaan darurat kebakaran gunakan teknik PASS pada APAR (Pull, Aim, Squeeze, Sweep) untuk api kecil, atau segera evakuasi pengunjung melalui pintu darurat menuju titik kumpul."
+          ]
+        },
+        {
+          "id": "b4-12",
+          "order": 12,
+          "title": "Budaya Kerja Aman dan Sehat",
+          "summary": "Membangun kebiasaan briefing keselamatan dan saling mengingatkan antarkaryawan.",
+          "durationMinutes": 10,
+          "keyTakeaway": "Keselamatan kerja bukan tugas satu orang, melainkan tanggung jawab kolektif seluruh tim toko.",
+          "content": [
+            "Briefing pagi 5 menit sebelum toko buka membantu tim menyepakati target layanan sekaligus mengecek kondisi keamanan alat, stok, dan kebersihan fasilitas."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bab-5",
+      "number": 5,
+      "title": "Berkomunikasi dengan Pelanggan",
+      "subtitle": "Menguasai komunikasi verbal & nonverbal, teknik bertanya, penawaran persuasif, penanganan keluhan, dan pelayanan prima.",
+      "coverImage": "/src/assets/images/chapter_career_team_1794705063640.jpg",
+      "learningObjectives": [
+        "Menjelaskan konsep dan tujuan komunikasi bisnis yang efektif di lingkungan pemasaran.",
+        "Mempraktikkan komunikasi verbal dan nonverbal yang hangat serta profesional.",
+        "Menggunakan teknik bertanya, menggali kebutuhan, dan menawarkan produk (upselling/cross-selling).",
+        "Menangani keluhan pelanggan dengan empati untuk membangun loyalitas jangka panjang."
+      ],
+      "learningOutcomes": [
+        "Peserta didik mampu berkomunikasi secara efektif, santun, dan persuasif dengan pelanggan dalam berbagai situasi pelayanan maupun penjualan."
+      ],
+      "infographicTitle": "Alur Komunikasi Pelayanan Prima & Penjualan Persuasif (5 Langkah)",
+      "infographicNodes": [
+        {
+          "label": "Langkah 1",
+          "value": "Sambut Hangat",
+          "detail": "Senyum tulus, kontak mata, salam standar 3S (Senyum, Sapa, Salam) dalam 5 detik."
+        },
+        {
+          "label": "Langkah 2",
+          "value": "Gali Kebutuhan",
+          "detail": "Ajukan pertanyaan terbuka (open-ended) dan praktikkan active listening."
+        },
+        {
+          "label": "Langkah 3",
+          "value": "Presentasi Solusi",
+          "detail": "Terapkan teknik FAB (Features, Advantages, Benefits) sesuai kebutuhan pembeli."
+        },
+        {
+          "label": "Langkah 4",
+          "value": "Tangani Keberatan",
+          "detail": "Gunakan kerangka LAST (Listen, Apologize, Solve, Thank) saat terjadi keluhan."
+        },
+        {
+          "label": "Langkah 5",
+          "value": "Tutup & Loyalitas",
+          "detail": "Tawarkan nilai tambah yang relevan dan ucapkan terima kasih dengan antusias."
+        }
+      ],
+      "videoLesson": {
+        "title": "Video Interaktif: Seni Berkomunikasi, Teknik FAB & Metode LAST Handling Complaint",
+        "instructor": "Ibu Ratna Sari, S.E., M.Pd.",
+        "durationLabel": "15:40",
+        "slides": [
+          {
+            "timestamp": "00:00",
+            "heading": "Kekuatan Komunikasi Verbal & Nonverbal",
+            "bullets": [
+              "Lebih dari separuh kesan pelanggan dipengaruhi bahasa tubuh, ekspresi wajah, postur terbuka, dan intonasi suara.",
+              "Gunakan kata-kata positif (\"Saya bantu cek stoknya sekarang\" alih-alih \"Barang itu sudah habis\")."
+            ],
+            "visualNote": "Perbandingan gestur tertutup vs gestur terbuka saat menyambut pelanggan."
+          },
+          {
+            "timestamp": "08:15",
+            "heading": "Menghadapi Pelanggan Komplain dengan Metode LAST",
+            "bullets": [
+              "Listen (dengarkan tanpa memotong), Apologize (minta maaf tulus), Solve (berikan solusi cepat), Thank (ucapkan terima kasih atas masukannya)."
+            ],
+            "visualNote": "Simulasi dialog antara pelanggan kecewa dan petugas Customer Service."
+          }
+        ]
+      },
+      "caseStudy": {
+        "title": "Studi Kasus: Mengubah Pelanggan Marah Karena Produk Cacat Menjadi Pelanggan Loyal",
+        "context": "Seorang pelanggan datang ke meja kasir dengan nada tinggi karena blender yang dibelinya kemarin tidak mau menyala saat dicoba di rumah, sementara ia membutuhkannya untuk acara keluarga sore nanti.",
+        "challenge": "Bagaimana dialog respons yang tepat menerapkan komunikasi nonverbal menenangkan dan kerangka penanganan keluhan LAST?",
+        "questions": [
+          "Kalimat pembuka apa yang sebaiknya diucapkan dalam 10 detik pertama?",
+          "Solusi konkret apa yang dapat diberikan sesuai standar pelayanan prima toko?"
+        ],
+        "modelSolution": "Pertahankan kontak mata lembut dan postur tenang, dengarkan keluhan sampai selesai tanpa menyela. Ucapkan permohonan maaf tulus atas ketidaknyamanan yang dialami, segera lakukan pengecekan garansi & penukaran unit baru yang langsung diuji nyala di depan pelanggan, berikan voucher kecil atau kantong belanja apresiasi, dan ucapkan terima kasih atas kepercayaannya."
+      },
+      "interactiveActivityId": "sales_roleplay",
+      "interactiveActivityTitle": "Roleplay Pelayanan Prima & Sales Persuasif",
+      "interactiveActivityDesc": "Latih respons dialog menghadapi pelanggan baru, penawaran produk FAB, dan penyelesaian keluhan.",
+      "summaryPoints": [
+        "Komunikasi efektif memadukan kejelasan pesan verbal dengan ketulusan bahasa tubuh nonverbal.",
+        "Mendengarkan aktif membantu tenaga pemasar menawarkan produk yang benar-benar memecahkan masalah pelanggan.",
+        "Penanganan keluhan yang cepat dan empatik justru memperkuat loyalitas pelanggan."
+      ],
+      "reflectionPrompts": [
+        "Menurutmu sikap komunikasi nonverbal apa yang paling membuat pelanggan merasa dihargai di sebuah toko?",
+        "Bagaimana cara tetap tenang saat menghadapi pelanggan yang berbicara dengan nada tinggi?"
+      ],
+      "subchapters": [
+        {
+          "id": "b5-1",
+          "order": 1,
+          "title": "Pengertian Komunikasi",
+          "summary": "Proses pertukaran pesan, gagasan, dan makna antara komunikator dan komunikan.",
+          "durationMinutes": 10,
+          "keyTakeaway": "Komunikasi berhasil ketika pesan yang diterima pelanggan sama dengan maksud pengirim.",
+          "content": [
+            "Komunikasi merupakan proses penyampaian informasi, ide, emosi, dan pemahaman dari satu pihak ke pihak lain melalui simbol kata, suara, maupun bahasa tubuh hingga menghasilkan umpan balik."
+          ]
+        },
+        {
+          "id": "b5-2",
+          "order": 2,
+          "title": "Tujuan Komunikasi Bisnis",
+          "summary": "Membangun pemahaman, menginformasikan nilai produk, membujuk, dan memelihara relasi.",
+          "durationMinutes": 10,
+          "keyTakeaway": "Setiap interaksi di toko bertujuan menciptakan pengalaman positif yang mendorong kepercayaan.",
+          "content": [
+            "Tujuan utama komunikasi bisnis meliputi memberi informasi akurat (informing), membujuk secara etis (persuading), dan berkolaborasi menjaga hubungan jangka panjang (collaborating)."
+          ]
+        },
+        {
+          "id": "b5-3",
+          "order": 3,
+          "title": "Komunikasi Verbal",
+          "summary": "Pemilihan diksi sopan, artikulasi jelas, dan nada suara profesional.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Gunakan kalimat aktif yang solutif dan hindari istilah teknis yang membingungkan pembeli.",
+          "content": [
+            "Komunikasi verbal mencakup komunikasi lisan dan tulisan. Dalam ritel, intonasi suara yang ramah, kecepatan bicara sedang, serta panggilan hormat (\"Bapak/Ibu/Kak\") membangun kedekatan instan."
+          ]
+        },
+        {
+          "id": "b5-4",
+          "order": 4,
+          "title": "Komunikasi Nonverbal",
+          "summary": "Ekspresi wajah, kontak mata, postur tubuh, jarak personal, dan kerapian penampilan.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Senyum yang tulus dan postur tubuh menghadap pelanggan membuka pintu kepercayaan sebelum kata terucap.",
+          "content": [
+            "Komunikasi nonverbal meliputi kontak mata hangat, tidak melipat tangan di dada (sikap defensif), anggukan saat menyimak, serta seragam bersih dan rapi sesuai standar gerai."
+          ]
+        },
+        {
+          "id": "b5-5",
+          "order": 5,
+          "title": "Komunikasi Efektif",
+          "summary": "Prinsip 7C komunikasi bisnis dan teknik mendengarkan aktif (active listening).",
+          "durationMinutes": 12,
+          "keyTakeaway": "Mendengarkan secara utuh memungkinkan kita memahami kebutuhan tersirat pelanggan.",
+          "content": [
+            "Komunikasi efektif berpegang pada prinsip Clear, Concise, Concrete, Correct, Coherent, Complete, dan Courteous, disertai pengulangan ringkas (parafrase) untuk memastikan pemahaman."
+          ]
+        },
+        {
+          "id": "b5-6",
+          "order": 6,
+          "title": "Teknik Menyambut Pelanggan",
+          "summary": "Aturan 3S, aturan 5-10 langkah, dan menciptakan suasana tanpa tekanan.",
+          "durationMinutes": 10,
+          "keyTakeaway": "Sambut pelanggan dalam 5 detik pertama dengan antusiasme alami tanpa terkesan memaksa.",
+          "content": [
+            "Teknik greeting yang baik dimulai dari kontak mata pada jarak 3 meter, senyuman, sapaan salam khas toko, dan memberi ruang nyaman sebelum menawarkan bantuan."
+          ]
+        },
+        {
+          "id": "b5-7",
+          "order": 7,
+          "title": "Mengidentifikasi Kebutuhan Pelanggan",
+          "summary": "Menggali motif belanja, anggaran, dan preferensi melalui observasi dan dialog.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Jangan langsung menawarkan produk sebelum mengetahui untuk siapa dan untuk keperluan apa produk dicari.",
+          "content": [
+            "Dengan mengamati gestur pelanggan dan menanyakan konteks penggunaan, tenaga pemasar dapat mempersempit pilihan produk menjadi 2–3 rekomendasi paling relevan."
+          ]
+        },
+        {
+          "id": "b5-8",
+          "order": 8,
+          "title": "Teknik Bertanya",
+          "summary": "Kombinasi pertanyaan terbuka (5W+1H) dan pertanyaan konfirmasi tertutup.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Pertanyaan terbuka mengajak pelanggan bercerita; pertanyaan tertutup membantu pengambilan keputusan.",
+          "content": [
+            "Gunakan pertanyaan terbuka (\"Kebutuhan acara seperti apa yang sedang Ibu persiapkan?\") di awal percakapan, lalu gunakan pertanyaan tertutup (\"Ibu lebih suka warna biru tua atau hitam?\") saat mengarahkan pilihan."
+          ]
+        },
+        {
+          "id": "b5-9",
+          "order": 9,
+          "title": "Teknik Menawarkan Produk",
+          "summary": "Metode FAB (Feature-Advantage-Benefit), cross-selling, dan upselling etis.",
+          "durationMinutes": 14,
+          "keyTakeaway": "Pelanggan tidak membeli fitur teknis; mereka membeli manfaat nyata bagi hidup mereka.",
+          "content": [
+            "Jelaskan fitur produk lalu hubungkan langsung dengan manfaatnya bagi pembeli. Gunakan cross-selling (menawarkan produk pelengkap) secara tulus sesuai kebutuhan pelanggan."
+          ]
+        },
+        {
+          "id": "b5-10",
+          "order": 10,
+          "title": "Menangani Keluhan Pelanggan",
+          "summary": "Meredam emosi dengan empati, kerangka LAST, dan solusi yang adil.",
+          "durationMinutes": 14,
+          "keyTakeaway": "Pisahkan emosi pelanggan dari inti masalah, dengarkan penuh empati, lalu fokus pada solusi.",
+          "content": [
+            "Kerangka LAST: Listen (simak tanpa membela diri), Apologize (akui ketidaknyamanan), Solve (tawarkan opsi penggantian/perbaikan), Thank (hargai masukan untuk perbaikan toko)."
+          ]
+        },
+        {
+          "id": "b5-11",
+          "order": 11,
+          "title": "Pelayanan Prima",
+          "summary": "Konsep Service Excellence A6 (Ability, Attitude, Appearance, Attention, Action, Accountability).",
+          "durationMinutes": 12,
+          "keyTakeaway": "Pelayanan prima melampaui ekspektasi standar sehingga pelanggan merasa istimewa.",
+          "content": [
+            "Pelayanan prima memadukan kemampuan teknis produk, sikap positif, penampilan profesional, perhatian tulus, tindakan nyata yang cepat, serta tanggung jawab hingga tuntas."
+          ]
+        },
+        {
+          "id": "b5-12",
+          "order": 12,
+          "title": "Membangun Loyalitas Pelanggan",
+          "summary": "Tindak lanjut purnajual, personalisasi, dan program keanggotaan.",
+          "durationMinutes": 12,
+          "keyTakeaway": "Pelanggan loyal adalah aset pemasaran terbaik melalui rekomendasi dari mulut ke mulut.",
+          "content": [
+            "Loyalitas tercipta melalui konsistensi mutu layanan di setiap kunjungan, pengingat garansi atau perawatan produk, apresiasi pelanggan setia, dan komunitas merek yang positif."
+          ]
+        }
+      ]
+    }
+  ],
+  "customMaterials": [
+    {
+      "id": "mat-seed-1",
+      "chapterId": "bab-1",
+      "title": "Panduan Planogram & Standar Display Minimarket Modern",
+      "description": "Referensi tata letak rak produk fast-moving, signage harga promo, dan rotasi FEFO.",
+      "fileType": "dokumen",
+      "fileName": "Modul_Planogram_Ritel_XPM.txt",
+      "fileUrl": "/api/materials/sample/planogram",
+      "uploadedBy": "Ratna Sari, S.E., M.Pd.",
+      "createdAt": "2026-08-05T08:00:00.000Z"
+    },
+    {
+      "id": "mat-seed-2",
+      "chapterId": "bab-2",
+      "title": "Checklist Kepatuhan Etika & Perlindungan Data Konsumen Digital",
+      "description": "Ringkasan praktik terbaik opt-in CRM dan transaksi QRIS yang aman bagi ritel UMKM.",
+      "fileType": "dokumen",
+      "fileName": "Checklist_Etika_Digital_Marketing.txt",
+      "fileUrl": "/api/materials/sample/etika-digital",
+      "uploadedBy": "Ratna Sari, S.E., M.Pd.",
+      "createdAt": "2026-09-02T09:30:00.000Z"
+    }
+  ],
+  "assessments": [
+    {
+      "id": "assess-pretest",
+      "title": "Pre-Test Diagnostik Dasar-Dasar Pemasaran",
+      "kind": "pre_test",
+      "chapterId": null,
+      "durationMinutes": 15,
+      "maxAttempts": 2,
+      "passingScore": 70,
+      "scheduledDate": "2026-07-20",
+      "randomizeQuestions": true,
+      "createdBy": "guru-1",
+      "questions": [
+        {
+          "id": "q-pre-1",
+          "chapterId": "bab-1",
+          "type": "multiple_choice",
+          "prompt": "Aktivitas penjualan barang dan jasa secara langsung kepada konsumen akhir untuk penggunaan pribadi disebut...",
+          "options": [
+            "Grosir (Wholesaling)",
+            "Pemasaran Ritel (Retailing)",
+            "Manufaktur",
+            "Ekspor Impor"
+          ],
+          "correctIndex": 1,
+          "explanation": "Pemasaran ritel adalah mata rantai terakhir yang melayani konsumen akhir secara langsung."
+        },
+        {
+          "id": "q-pre-2",
+          "chapterId": "bab-2",
+          "type": "multiple_choice",
+          "prompt": "Strategi menyatukan pengalaman belanja antara toko fisik, marketplace, dan media sosial secara sinkron disebut...",
+          "options": [
+            "Single Channel",
+            "Omnichannel Marketing",
+            "Telemarketing",
+            "Direct Mail"
+          ],
+          "correctIndex": 1,
+          "explanation": "Omnichannel menghubungkan seluruh titik sentuh toko fisik dan digital dalam satu pengalaman terpadu."
+        },
+        {
+          "id": "q-pre-3",
+          "chapterId": "bab-3",
+          "type": "multiple_choice",
+          "prompt": "Profesi di toko ritel yang fokus menata tampilan produk, planogram rak, dan label harga adalah...",
+          "options": [
+            "Merchandiser",
+            "Auditor Pajak",
+            "Kurir Ekspedisi",
+            "Programmer"
+          ],
+          "correctIndex": 0,
+          "explanation": "Merchandiser bertugas mengatur tata letak dan presentasi visual barang dagangan di toko."
+        },
+        {
+          "id": "q-pre-4",
+          "chapterId": "bab-4",
+          "type": "true_false",
+          "prompt": "Barang-barang berat di gudang ritel sebaiknya diletakkan di rak paling atas agar lorong bawah terlihat lega.",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "correctIndex": 1,
+          "explanation": "Salah. Barang berat wajib ditempatkan di rak paling bawah untuk mencegah risiko jatuh dan cedera."
+        },
+        {
+          "id": "q-pre-5",
+          "chapterId": "bab-5",
+          "type": "multiple_choice",
+          "prompt": "Dalam menangani keluhan pelanggan dengan metode LAST, huruf \"L\" berarti...",
+          "options": [
+            "Leave (Tinggalkan)",
+            "Listen (Dengarkan dengan empati)",
+            "Limit (Batasi)",
+            "Laugh (Tertawa)"
+          ],
+          "correctIndex": 1,
+          "explanation": "Listen berarti mendengarkan keluhan pelanggan secara utuh tanpa menyela."
+        }
+      ]
+    },
+    {
+      "id": "assess-bab-1",
+      "title": "Ujian Akhir Bab 1: Proses Bisnis Pemasaran Ritel",
+      "kind": "ujian_bab",
+      "chapterId": "bab-1",
+      "durationMinutes": 20,
+      "maxAttempts": 3,
+      "passingScore": 75,
+      "scheduledDate": "2026-08-18",
+      "randomizeQuestions": true,
+      "createdBy": "guru-1",
+      "questions": [
+        {
+          "id": "q-b1-1",
+          "chapterId": "bab-1",
+          "type": "multiple_choice",
+          "prompt": "Metode rotasi barang di rak minimarket yang mengutamakan produk dengan tanggal kedaluwarsa terdekat keluar lebih dulu adalah...",
+          "options": [
+            "LIFO",
+            "FEFO",
+            "JIT",
+            "EOQ"
+          ],
+          "correctIndex": 1,
+          "explanation": "FEFO (First Expired, First Out) wajib digunakan pada makanan, minuman, dan produk berkedaluwarsa."
+        },
+        {
+          "id": "q-b1-2",
+          "chapterId": "bab-1",
+          "type": "multiple_choice",
+          "prompt": "Format toko ritel seluas 100–400 m² yang berada dekat pemukiman dengan kebutuhan harian cepat saji disebut...",
+          "options": [
+            "Hypermarket",
+            "Department Store",
+            "Minimarket",
+            "Wholesale Club"
+          ],
+          "correctIndex": 2,
+          "explanation": "Minimarket melayani kebutuhan harian secara praktis dengan luas area toko ringkas."
+        },
+        {
+          "id": "q-b1-3",
+          "chapterId": "bab-1",
+          "type": "multiple_choice",
+          "prompt": "Posisi penataan barang di rak yang paling mudah dilihat dan memiliki tingkat konversi tertinggi adalah...",
+          "options": [
+            "Bottom Shelf",
+            "Eye Level",
+            "Top Storage",
+            "Sudut Gudang"
+          ],
+          "correctIndex": 1,
+          "explanation": "Area sejajar pandangan mata (Eye Level) paling cepat menarik perhatian konsumen."
+        },
+        {
+          "id": "q-b1-4",
+          "chapterId": "bab-1",
+          "type": "true_false",
+          "prompt": "Stockout (kehabisan stok) hanya berdampak pada satu transaksi gagal dan tidak memengaruhi loyalitas pelanggan.",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "correctIndex": 1,
+          "explanation": "Salah. Kehabisan stok berulang membuat pelanggan beralih ke toko pesaing."
+        },
+        {
+          "id": "q-b1-5",
+          "chapterId": "bab-1",
+          "type": "multiple_choice",
+          "prompt": "Metrik evaluasi ritel yang menunjukkan rata-rata nilai belanja pelanggan per satu struk transaksi adalah...",
+          "options": [
+            "Average Basket Size",
+            "Shrinkage Rate",
+            "Lead Time",
+            "Reorder Point"
+          ],
+          "correctIndex": 0,
+          "explanation": "Average Basket Size mengukur rata-rata nilai transaksi per struk."
+        }
+      ]
+    },
+    {
+      "id": "assess-bab-2",
+      "title": "Ujian Akhir Bab 2: Teknologi & Isu Pemasaran Ritel",
+      "kind": "ujian_bab",
+      "chapterId": "bab-2",
+      "durationMinutes": 20,
+      "maxAttempts": 3,
+      "passingScore": 75,
+      "scheduledDate": "2026-09-15",
+      "randomizeQuestions": true,
+      "createdBy": "guru-1",
+      "questions": [
+        {
+          "id": "q-b2-1",
+          "chapterId": "bab-2",
+          "type": "multiple_choice",
+          "prompt": "Keunggulan utama memiliki situs e-commerce mandiri dibandingkan hanya bergantung pada marketplace adalah...",
+          "options": [
+            "Tidak butuh internet",
+            "Kontrol penuh atas merek dan database pelanggan",
+            "Bebas biaya logistik selamanya",
+            "Tidak memerlukan produk"
+          ],
+          "correctIndex": 1,
+          "explanation": "E-commerce mandiri memberi pemilik bisnis kontrol penuh terhadap identitas merek dan data pelanggan."
+        },
+        {
+          "id": "q-b2-2",
+          "chapterId": "bab-2",
+          "type": "multiple_choice",
+          "prompt": "Standar kode QR pembayaran nasional Indonesia yang memudahkan transaksi nontunai lintas aplikasi adalah...",
+          "options": [
+            "SWIFT",
+            "QRIS",
+            "IBAN",
+            "NFC-Only"
+          ],
+          "correctIndex": 1,
+          "explanation": "QRIS (Quick Response Code Indonesian Standard) menyatukan pembayaran berbagai e-wallet dan mobile banking."
+        },
+        {
+          "id": "q-b2-3",
+          "chapterId": "bab-2",
+          "type": "true_false",
+          "prompt": "Peritel berhak menjual nomor telepon anggota loyalitas ke pihak ketiga tanpa persetujuan konsumen.",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "correctIndex": 1,
+          "explanation": "Salah. Hal tersebut melanggar etika pemasaran digital dan prinsip perlindungan data pribadi."
+        },
+        {
+          "id": "q-b2-4",
+          "chapterId": "bab-2",
+          "type": "multiple_choice",
+          "prompt": "Pemanfaatan Artificial Intelligence dalam pemasaran ritel paling tepat digunakan untuk...",
+          "options": [
+            "Mematikan lampu toko secara manual",
+            "Rekomendasi produk personal dan prediksi permintaan stok",
+            "Mengganti seluruh etika bisnis",
+            "Membuat ulasan palsu"
+          ],
+          "correctIndex": 1,
+          "explanation": "AI menganalisis riwayat belanja untuk personalisasi penawaran dan peramalan stok."
+        },
+        {
+          "id": "q-b2-5",
+          "chapterId": "bab-2",
+          "type": "multiple_choice",
+          "prompt": "Sistem pengelolaan hubungan jangka panjang pelanggan beserta poin loyalitas disebut...",
+          "options": [
+            "ERP Gudang",
+            "CRM (Customer Relationship Management)",
+            "SOP Kebersihan",
+            "POS Offline"
+          ],
+          "correctIndex": 1,
+          "explanation": "CRM membantu memelihara komunikasi personal dan retensi pelanggan."
+        }
+      ]
+    },
+    {
+      "id": "assess-bab-3",
+      "title": "Ujian Akhir Bab 3: Profesi & Peluang Usaha Ritel",
+      "kind": "ujian_bab",
+      "chapterId": "bab-3",
+      "durationMinutes": 20,
+      "maxAttempts": 3,
+      "passingScore": 75,
+      "scheduledDate": "2026-10-12",
+      "randomizeQuestions": true,
+      "createdBy": "guru-1",
+      "questions": [
+        {
+          "id": "q-b3-1",
+          "chapterId": "bab-3",
+          "type": "multiple_choice",
+          "prompt": "Pemimpin tertinggi operasional di satu gerai yang bertanggung jawab atas omzet, laba, dan SDM toko adalah...",
+          "options": [
+            "Kasir",
+            "Store Manager",
+            "Sales Promotion",
+            "Receiving Staff"
+          ],
+          "correctIndex": 1,
+          "explanation": "Store Manager bertanggung jawab menyeluruh terhadap kinerja bisnis satu cabang toko."
+        },
+        {
+          "id": "q-b3-2",
+          "chapterId": "bab-3",
+          "type": "multiple_choice",
+          "prompt": "Dalam Business Model Canvas, blok yang menjelaskan manfaat unik yang memecahkan masalah pelanggan adalah...",
+          "options": [
+            "Cost Structure",
+            "Value Propositions",
+            "Key Partnerships",
+            "Key Resources"
+          ],
+          "correctIndex": 1,
+          "explanation": "Value Propositions merumuskan alasan utama mengapa pelanggan memilih produk atau layanan kita."
+        },
+        {
+          "id": "q-b3-3",
+          "chapterId": "bab-3",
+          "type": "multiple_choice",
+          "prompt": "Profesi yang fokus mengelola strategi iklan berbayar, SEO, dan konversi penjualan online adalah...",
+          "options": [
+            "Digital Marketer",
+            "Security Guard",
+            "Warehouse Packer",
+            "Kasir Shift"
+          ],
+          "correctIndex": 0,
+          "explanation": "Digital Marketer merancang dan mengevaluasi kinerja kampanye di kanal digital."
+        },
+        {
+          "id": "q-b3-4",
+          "chapterId": "bab-3",
+          "type": "true_false",
+          "prompt": "Sebelum membuka usaha ritel baru, analisis peluang pasar membantu mengetahui kebutuhan konsumen dan kekuatan pesaing.",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "correctIndex": 0,
+          "explanation": "Benar. Analisis pasar mencegah usaha meluncurkan produk yang tidak sesuai daya beli atau kebutuhan lokal."
+        }
+      ]
+    },
+    {
+      "id": "assess-bab-4",
+      "title": "Ujian Akhir Bab 4: K3 & Keamanan Pemasaran Ritel",
+      "kind": "ujian_bab",
+      "chapterId": "bab-4",
+      "durationMinutes": 20,
+      "maxAttempts": 3,
+      "passingScore": 75,
+      "scheduledDate": "2026-11-05",
+      "randomizeQuestions": true,
+      "createdBy": "guru-1",
+      "questions": [
+        {
+          "id": "q-b4-1",
+          "chapterId": "bab-4",
+          "type": "multiple_choice",
+          "prompt": "Teknik mengangkat kardus barang berat yang ergonomis untuk menghindari cedera tulang belakang adalah...",
+          "options": [
+            "Membungkuk dengan kaki lurus",
+            "Menekuk lutut dengan punggung tetap tegak",
+            "Menarik dengan satu tangan sambil memutar pinggang",
+            "Menjinjing di ujung jari"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bertumpu pada otot paha/kaki dengan menekuk lutut menjaga tulang belakang tetap aman."
+        },
+        {
+          "id": "q-b4-2",
+          "chapterId": "bab-4",
+          "type": "multiple_choice",
+          "prompt": "Urutan penggunaan Alat Pemadam Api Ringan (APAR) yang benar dikenal dengan singkatan...",
+          "options": [
+            "FIFO",
+            "PASS",
+            "SWOT",
+            "QRIS"
+          ],
+          "correctIndex": 1,
+          "explanation": "PASS: Pull the pin, Aim at base of fire, Squeeze handle, Sweep side to side."
+        },
+        {
+          "id": "q-b4-3",
+          "chapterId": "bab-4",
+          "type": "multiple_choice",
+          "prompt": "Istilah untuk penyusutan/kehilangan persediaan akibat pencurian, kerusakan, atau salah catat di toko ritel adalah...",
+          "options": [
+            "Markup",
+            "Shrinkage",
+            "Turnover",
+            "Cashback"
+          ],
+          "correctIndex": 1,
+          "explanation": "Shrinkage adalah selisih berkurangnya stok fisik dibanding catatan sistem."
+        },
+        {
+          "id": "q-b4-4",
+          "chapterId": "bab-4",
+          "type": "true_false",
+          "prompt": "Kardus stok baru boleh diletakkan sementara di depan pintu keluar darurat selama toko sedang sibuk.",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "correctIndex": 1,
+          "explanation": "Salah. Jalur dan pintu evakuasi darurat wajib selalu bebas hambatan setiap saat."
+        }
+      ]
+    },
+    {
+      "id": "assess-bab-5",
+      "title": "Ujian Akhir Bab 5: Komunikasi dengan Pelanggan",
+      "kind": "ujian_bab",
+      "chapterId": "bab-5",
+      "durationMinutes": 20,
+      "maxAttempts": 3,
+      "passingScore": 75,
+      "scheduledDate": "2026-11-28",
+      "randomizeQuestions": true,
+      "createdBy": "guru-1",
+      "questions": [
+        {
+          "id": "q-b5-1",
+          "chapterId": "bab-5",
+          "type": "multiple_choice",
+          "prompt": "Dalam teknik menawarkan produk FAB, huruf \"B\" (Benefits) menjelaskan tentang...",
+          "options": [
+            "Berat fisik produk",
+            "Manfaat nyata yang dirasakan pelanggan",
+            "Biaya sewa toko",
+            "Batas waktu garansi pemasok"
+          ],
+          "correctIndex": 1,
+          "explanation": "Benefits menerjemahkan fitur produk menjadi solusi atau manfaat langsung bagi pembeli."
+        },
+        {
+          "id": "q-b5-2",
+          "chapterId": "bab-5",
+          "type": "multiple_choice",
+          "prompt": "Sikap tubuh nonverbal yang menunjukkan kesiapan dan keterbukaan menyambut pelanggan adalah...",
+          "options": [
+            "Menyilangkan tangan di dada sambil menunduk",
+            "Senyum hangat, kontak mata, dan postur tubuh terbuka",
+            "Fokus menatap layar ponsel",
+            "Membelakangi pintu masuk"
+          ],
+          "correctIndex": 1,
+          "explanation": "Kontak mata dan senyum ramah menciptakan kesan pertama positif dan profesional."
+        },
+        {
+          "id": "q-b5-3",
+          "chapterId": "bab-5",
+          "type": "multiple_choice",
+          "prompt": "Pertanyaan \"Acara apa yang sedang Ibu rencanakan akhir pekan ini?\" merupakan contoh...",
+          "options": [
+            "Pertanyaan tertutup",
+            "Pertanyaan terbuka untuk menggali kebutuhan",
+            "Kalimat penutup transaksi",
+            "Penolakan halus"
+          ],
+          "correctIndex": 1,
+          "explanation": "Pertanyaan terbuka mendorong pelanggan menjelaskan konteks kebutuhannya."
+        },
+        {
+          "id": "q-b5-4",
+          "chapterId": "bab-5",
+          "type": "true_false",
+          "prompt": "Saat pelanggan marah menyampaikan komplain, petugas sebaiknya langsung memotong pembicaraan untuk membela toko.",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "correctIndex": 1,
+          "explanation": "Salah. Dengarkan dulu hingga tuntas agar pelanggan merasa dihargai dan emosi mereda."
+        }
+      ]
+    },
+    {
+      "id": "assess-posttest",
+      "title": "Post-Test & Evaluasi Penguasaan Materi Semester",
+      "kind": "post_test",
+      "chapterId": null,
+      "durationMinutes": 25,
+      "maxAttempts": 2,
+      "passingScore": 75,
+      "scheduledDate": "2026-12-05",
+      "randomizeQuestions": true,
+      "createdBy": "guru-1",
+      "questions": [
+        {
+          "id": "q-post-1",
+          "chapterId": "bab-1",
+          "type": "multiple_choice",
+          "prompt": "Pengelolaan barang dagangan agar stok selalu segar dengan mengeluarkan barang masuk pertama lebih awal disebut...",
+          "options": [
+            "FIFO",
+            "ROI",
+            "KPI",
+            "BOPIS"
+          ],
+          "correctIndex": 0,
+          "explanation": "FIFO berarti First In, First Out."
+        },
+        {
+          "id": "q-post-2",
+          "chapterId": "bab-2",
+          "type": "multiple_choice",
+          "prompt": "Fitur belanja daring lalu mengambil barang langsung di toko fisik terdekat dikenal sebagai...",
+          "options": [
+            "BOPIS (Buy Online Pick Up in Store)",
+            "COD Tunai",
+            "Dropship Manual",
+            "Cold Calling"
+          ],
+          "correctIndex": 0,
+          "explanation": "BOPIS adalah praktik klasik integrasi ritel omnichannel."
+        },
+        {
+          "id": "q-post-3",
+          "chapterId": "bab-3",
+          "type": "multiple_choice",
+          "prompt": "Dalam 9 blok Business Model Canvas, biaya sewa ruko, gaji staf, dan listrik masuk dalam blok...",
+          "options": [
+            "Revenue Streams",
+            "Cost Structure",
+            "Customer Segments",
+            "Channels"
+          ],
+          "correctIndex": 1,
+          "explanation": "Seluruh pengeluaran operasional tercatat pada Cost Structure."
+        },
+        {
+          "id": "q-post-4",
+          "chapterId": "bab-4",
+          "type": "multiple_choice",
+          "prompt": "Alat yang wajib digunakan kasir untuk memeriksa keaslian uang kertas secara cepat adalah...",
+          "options": [
+            "Termometer",
+            "Lampu detektor sinar UV & teknik 3D",
+            "Timbangan digital",
+            "Stopwatch"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sinar UV memperlihatkan tanda pengaman tersembunyi pada uang kertas resmi."
+        },
+        {
+          "id": "q-post-5",
+          "chapterId": "bab-5",
+          "type": "multiple_choice",
+          "prompt": "Menawarkan produk pelengkap yang relevan (misal baterai saat membeli mainan) disebut...",
+          "options": [
+            "Cross-selling",
+            "Downsizing",
+            "Shrinkage",
+            "Stockout"
+          ],
+          "correctIndex": 0,
+          "explanation": "Cross-selling memberi nilai tambah berupa produk pendamping yang dibutuhkan."
+        }
+      ]
+    },
+    {
+      "id": "assess-uas",
+      "title": "Ujian Akhir Semester (UAS) Dasar-Dasar Pemasaran Kelas X",
+      "kind": "uas",
+      "chapterId": null,
+      "durationMinutes": 40,
+      "maxAttempts": 1,
+      "passingScore": 75,
+      "scheduledDate": "2026-12-12",
+      "randomizeQuestions": true,
+      "createdBy": "guru-1",
+      "questions": [
+        {
+          "id": "q-uas-1",
+          "chapterId": "bab-1",
+          "type": "multiple_choice",
+          "prompt": "Fungsi utama ritel dalam saluran distribusi adalah memecah kemasan grosir menjadi satuan eceran atau disebut...",
+          "options": [
+            "Breaking Bulk",
+            "Mass Production",
+            "Custom Manufacturing",
+            "Raw Sourcing"
+          ],
+          "correctIndex": 0,
+          "explanation": "Breaking bulk memudahkan konsumen membeli sesuai kebutuhan harian."
+        },
+        {
+          "id": "q-uas-2",
+          "chapterId": "bab-2",
+          "type": "multiple_choice",
+          "prompt": "Penerapan etika pemasaran digital yang benar saat mengirim promosi WhatsApp adalah...",
+          "options": [
+            "Mengirim spam ke nomor acak",
+            "Meminta persetujuan (opt-in) pelanggan terlebih dahulu",
+            "Memalsukan testimoni pembeli",
+            "Menyembunyikan harga asli"
+          ],
+          "correctIndex": 1,
+          "explanation": "Persetujuan opt-in menghormati privasi konsumen dan menjaga reputasi merek."
+        },
+        {
+          "id": "q-uas-3",
+          "chapterId": "bab-3",
+          "type": "multiple_choice",
+          "prompt": "Kompetensi inti yang membedakan Retail Supervisor dari Kasir adalah...",
+          "options": [
+            "Kemampuan memindai barcode",
+            "Kemampuan memimpin tim shift dan mengawasi standar SOP gerai",
+            "Hanya menghitung uang kembalian",
+            "Memasang kabel listrik toko"
+          ],
+          "correctIndex": 1,
+          "explanation": "Supervisor bertanggung jawab atas koordinasi tim dan kelancaran operasional shift."
+        },
+        {
+          "id": "q-uas-4",
+          "chapterId": "bab-4",
+          "type": "multiple_choice",
+          "prompt": "Budaya kerja 5R di toko ritel yang berarti menjaga kondisi bersih dan rapi secara berkelanjutan disebut...",
+          "options": [
+            "Rawat",
+            "Rombak",
+            "Rugi",
+            "Retur"
+          ],
+          "correctIndex": 0,
+          "explanation": "Rawat menjaga standar Ringkas, Rapi, dan Resik tetap konsisten setiap hari."
+        },
+        {
+          "id": "q-uas-5",
+          "chapterId": "bab-5",
+          "type": "multiple_choice",
+          "prompt": "Dalam konsep pelayanan prima A6, unsur \"Accountability\" berarti...",
+          "options": [
+            "Berpenampilan mewah",
+            "Bertanggung jawab tuntas atas janji layanan kepada pelanggan",
+            "Berbicara secepat mungkin",
+            "Menolak semua keluhan"
+          ],
+          "correctIndex": 1,
+          "explanation": "Accountability menjamin solusi pelanggan benar-benar dituntaskan."
+        },
+        {
+          "id": "q-uas-6",
+          "chapterId": "bab-1",
+          "type": "true_false",
+          "prompt": "Planogram berfungsi sebagai panduan visual penataan produk agar kategori barang tertata rapi dan mendorong penjualan.",
+          "options": [
+            "Benar",
+            "Salah"
+          ],
+          "correctIndex": 0,
+          "explanation": "Benar. Planogram memaksimalkan produktivitas setiap meter ruang rak toko."
+        }
+      ]
+    }
+  ],
+  "assessmentAttempts": [
+    {
+      "id": "att-1",
+      "assessmentId": "assess-pretest",
+      "studentId": "siswa-1",
+      "score": 80,
+      "correctCount": 4,
+      "totalQuestions": 5,
+      "durationSeconds": 320,
+      "submittedAt": "2026-07-21T08:15:00.000Z",
+      "answers": {}
+    },
+    {
+      "id": "att-2",
+      "assessmentId": "assess-bab-1",
+      "studentId": "siswa-1",
+      "score": 88,
+      "correctCount": 4,
+      "totalQuestions": 5,
+      "durationSeconds": 460,
+      "submittedAt": "2026-08-19T09:10:00.000Z",
+      "answers": {}
+    },
+    {
+      "id": "att-3",
+      "assessmentId": "assess-bab-2",
+      "studentId": "siswa-1",
+      "score": 84,
+      "correctCount": 4,
+      "totalQuestions": 5,
+      "durationSeconds": 490,
+      "submittedAt": "2026-09-16T09:20:00.000Z",
+      "answers": {}
+    },
+    {
+      "id": "att-4",
+      "assessmentId": "assess-bab-3",
+      "studentId": "siswa-1",
+      "score": 90,
+      "correctCount": 4,
+      "totalQuestions": 4,
+      "durationSeconds": 410,
+      "submittedAt": "2026-10-13T10:00:00.000Z",
+      "answers": {}
+    },
+    {
+      "id": "att-5",
+      "assessmentId": "assess-bab-4",
+      "studentId": "siswa-1",
+      "score": 78,
+      "correctCount": 3,
+      "totalQuestions": 4,
+      "durationSeconds": 510,
+      "submittedAt": "2026-11-06T08:40:00.000Z",
+      "answers": {}
+    },
+    {
+      "id": "att-6",
+      "assessmentId": "assess-pretest",
+      "studentId": "siswa-2",
+      "score": 85,
+      "correctCount": 4,
+      "totalQuestions": 5,
+      "durationSeconds": 290,
+      "submittedAt": "2026-07-21T08:15:00.000Z",
+      "answers": {}
+    },
+    {
+      "id": "att-7",
+      "assessmentId": "assess-bab-1",
+      "studentId": "siswa-2",
+      "score": 92,
+      "correctCount": 5,
+      "totalQuestions": 5,
+      "durationSeconds": 410,
+      "submittedAt": "2026-08-19T09:10:00.000Z",
+      "answers": {}
+    },
+    {
+      "id": "att-8",
+      "assessmentId": "assess-bab-2",
+      "studentId": "siswa-2",
+      "score": 90,
+      "correctCount": 5,
+      "totalQuestions": 5,
+      "durationSeconds": 430,
+      "submittedAt": "2026-09-16T09:20:00.000Z",
+      "answers": {}
+    },
+    {
+      "id": "att-9",
+      "assessmentId": "assess-bab-3",
+      "studentId": "siswa-2",
+      "score": 88,
+      "correctCount": 4,
+      "totalQuestions": 4,
+      "durationSeconds": 380,
+      "submittedAt": "2026-10-13T10:00:00.000Z",
+      "answers": {}
+    },
+    {
+      "id": "att-10",
+      "assessmentId": "assess-bab-4",
+      "studentId": "siswa-2",
+      "score": 91,
+      "correctCount": 4,
+      "totalQuestions": 4,
+      "durationSeconds": 420,
+      "submittedAt": "2026-11-06T08:40:00.000Z",
+      "answers": {}
+    },
+    {
+      "id": "att-11",
+      "assessmentId": "assess-bab-5",
+      "studentId": "siswa-2",
+      "score": 89,
+      "correctCount": 4,
+      "totalQuestions": 4,
+      "durationSeconds": 440,
+      "submittedAt": "2026-11-12T08:40:00.000Z",
+      "answers": {}
+    },
+    {
+      "id": "att-12",
+      "assessmentId": "assess-bab-1",
+      "studentId": "siswa-3",
+      "score": 82,
+      "correctCount": 4,
+      "totalQuestions": 5,
+      "durationSeconds": 500,
+      "submittedAt": "2026-08-19T09:30:00.000Z",
+      "answers": {}
+    },
+    {
+      "id": "att-13",
+      "assessmentId": "assess-bab-2",
+      "studentId": "siswa-3",
+      "score": 79,
+      "correctCount": 4,
+      "totalQuestions": 5,
+      "durationSeconds": 520,
+      "submittedAt": "2026-09-16T09:30:00.000Z",
+      "answers": {}
+    },
+    {
+      "id": "att-14",
+      "assessmentId": "assess-bab-1",
+      "studentId": "siswa-4",
+      "score": 86,
+      "correctCount": 4,
+      "totalQuestions": 5,
+      "durationSeconds": 440,
+      "submittedAt": "2026-08-19T09:30:00.000Z",
+      "answers": {}
+    },
+    {
+      "id": "att-15",
+      "assessmentId": "assess-bab-2",
+      "studentId": "siswa-4",
+      "score": 85,
+      "correctCount": 4,
+      "totalQuestions": 5,
+      "durationSeconds": 470,
+      "submittedAt": "2026-09-16T09:30:00.000Z",
+      "answers": {}
+    },
+    {
+      "id": "att-16",
+      "assessmentId": "assess-bab-1",
+      "studentId": "siswa-5",
+      "score": 76,
+      "correctCount": 4,
+      "totalQuestions": 5,
+      "durationSeconds": 550,
+      "submittedAt": "2026-08-19T09:30:00.000Z",
+      "answers": {}
+    },
+    {
+      "id": "att-17",
+      "assessmentId": "assess-bab-1",
+      "studentId": "siswa-6",
+      "score": 68,
+      "correctCount": 3,
+      "totalQuestions": 5,
+      "durationSeconds": 590,
+      "submittedAt": "2026-08-19T09:30:00.000Z",
+      "answers": {}
+    }
+  ],
+  "assignments": [
+    {
+      "id": "asg-1",
+      "title": "Audit Planogram & Alur Pelayanan Minimarket Sekitar",
+      "description": "Observasi satu minimarket di sekitar tempat tinggalmu, petakan zona eye-level dan alur antrean kasir, lalu tulis rekomendasi perbaikan 2 paragraf.",
+      "chapterId": "bab-1",
+      "kind": "individu",
+      "dueDate": "2026-08-25",
+      "maxScore": 100,
+      "createdBy": "guru-1"
+    },
+    {
+      "id": "asg-2",
+      "title": "Proyek Mini: Strategi Promosi Omnichannel UMKM Sekolah",
+      "description": "Buat rancangan kampanye media sosial + integrasi pembayaran QRIS untuk produk kewirausahaan jurusan Pemasaran.",
+      "chapterId": "bab-2",
+      "kind": "kelompok",
+      "dueDate": "2026-09-25",
+      "maxScore": 100,
+      "createdBy": "guru-1"
+    },
+    {
+      "id": "asg-3",
+      "title": "Praktik Penyusunan Business Model Canvas (BMC) Ritel",
+      "description": "Lengkapi 9 blok BMC usaha ritel modern berskala siswa SMK lengkap dengan estimasi HPP dan target pelanggan.",
+      "chapterId": "bab-3",
+      "kind": "proyek",
+      "dueDate": "2026-10-28",
+      "maxScore": 100,
+      "createdBy": "guru-1"
+    },
+    {
+      "id": "asg-4",
+      "title": "Simulasi Dialog Penanganan Komplain (Metode LAST)",
+      "description": "Susun skrip komunikasi verbal & gestur nonverbal untuk menyelesaikan keluhan pelanggan produk rusak secara profesional.",
+      "chapterId": "bab-5",
+      "kind": "praktik",
+      "dueDate": "2026-11-26",
+      "maxScore": 100,
+      "createdBy": "guru-1"
+    }
+  ],
+  "submissions": [
+    {
+      "id": "sub-1",
+      "assignmentId": "asg-1",
+      "studentId": "siswa-1",
+      "content": "Hasil observasi di Minimarket Harapan Jaya menunjukkan produk minuman isotonik dan snack berada di rak eye-level dekat pintu masuk, sedangkan kasir sudah memakai barcode scanner dan QRIS. Rekomendasi saya adalah menata ulang jalur antrean agar tidak menghalangi rak promosi impulsif.",
+      "status": "graded",
+      "score": 90,
+      "feedback": "Analisis lapangan sangat tajam dan rekomendasi tata letak kasir tepat sasaran.",
+      "submittedAt": "2026-08-22T14:20:00.000Z",
+      "gradedAt": "2026-08-24T10:15:00.000Z"
+    },
+    {
+      "id": "sub-2",
+      "assignmentId": "asg-2",
+      "studentId": "siswa-1",
+      "content": "Kelompok kami merancang katalog WhatsApp Business dan Instagram Reels untuk produk es kopi susu koperasi siswa dengan sistem pre-order QRIS sebelum jam istirahat.",
+      "status": "graded",
+      "score": 88,
+      "feedback": "Konsep omnichannel praktis dan mudah diterapkan di koperasi sekolah.",
+      "submittedAt": "2026-09-21T16:00:00.000Z",
+      "gradedAt": "2026-09-23T09:00:00.000Z"
+    },
+    {
+      "id": "sub-3",
+      "assignmentId": "asg-3",
+      "studentId": "siswa-1",
+      "content": "Draft BMC Usaha Snack Box Sehat X PM 1: Value Proposition berupa paket sarapan praktis higienis Rp8.000 dengan pemesanan cepat via QRIS.",
+      "status": "submitted",
+      "submittedAt": "2026-10-27T11:10:00.000Z"
+    },
+    {
+      "id": "sub-4",
+      "assignmentId": "asg-1",
+      "studentId": "siswa-2",
+      "content": "Laporan audit planogram toko ritel modern beserta foto sketsa alur keluar masuk pelanggan dan evaluasi pencahayaan rak.",
+      "status": "graded",
+      "score": 94,
+      "feedback": "Sangat sistematis, mencakup aspek ergonomi dan rotasi FEFO.",
+      "submittedAt": "2026-08-21T11:00:00.000Z",
+      "gradedAt": "2026-08-23T10:00:00.000Z"
+    }
+  ],
+  "gameRecords": [
+    {
+      "id": "gm-1",
+      "studentId": "siswa-1",
+      "gameId": "retail_tycoon",
+      "gameName": "Retail Tycoon Simulator",
+      "score": 88,
+      "xpEarned": 140,
+      "accuracy": 88,
+      "durationSeconds": 210,
+      "metrics": {
+        "laba": "Rp 2.450.000",
+        "kepuasan": "92%"
+      },
+      "playedAt": "2026-11-10T14:00:00.000Z"
+    },
+    {
+      "id": "gm-2",
+      "studentId": "siswa-1",
+      "gameId": "cs_hero",
+      "gameName": "Customer Service Hero",
+      "score": 92,
+      "xpEarned": 150,
+      "accuracy": 92,
+      "durationSeconds": 175,
+      "metrics": {
+        "pelangganTerlayani": 5,
+        "empati": "94%"
+      },
+      "playedAt": "2026-11-11T15:30:00.000Z"
+    },
+    {
+      "id": "gm-3",
+      "studentId": "siswa-1",
+      "gameId": "marketing_battle",
+      "gameName": "Marketing Battle",
+      "score": 84,
+      "xpEarned": 125,
+      "accuracy": 80,
+      "durationSeconds": 130,
+      "metrics": {
+        "mode": "Individu",
+        "peringkat": "Top 3"
+      },
+      "playedAt": "2026-11-12T10:15:00.000Z"
+    },
+    {
+      "id": "gm-4",
+      "studentId": "siswa-1",
+      "gameId": "digital_marketing",
+      "gameName": "Digital Marketing Master",
+      "score": 85,
+      "xpEarned": 130,
+      "accuracy": 85,
+      "durationSeconds": 190,
+      "metrics": {
+        "roas": "3.8x",
+        "konversi": "6.4%"
+      },
+      "playedAt": "2026-11-13T16:20:00.000Z"
+    },
+    {
+      "id": "gm-5",
+      "studentId": "siswa-2",
+      "gameId": "retail_tycoon",
+      "gameName": "Retail Tycoon Simulator",
+      "score": 95,
+      "xpEarned": 165,
+      "accuracy": 95,
+      "durationSeconds": 195,
+      "metrics": {
+        "laba": "Rp 3.120.000",
+        "kepuasan": "96%"
+      },
+      "playedAt": "2026-11-12T13:00:00.000Z"
+    },
+    {
+      "id": "gm-6",
+      "studentId": "siswa-2",
+      "gameId": "career_quest",
+      "gameName": "Career Quest",
+      "score": 91,
+      "xpEarned": 150,
+      "accuracy": 91,
+      "durationSeconds": 205,
+      "metrics": {
+        "profesi": "Store Manager"
+      },
+      "playedAt": "2026-11-13T14:00:00.000Z"
+    },
+    {
+      "id": "gm-7",
+      "studentId": "siswa-3",
+      "gameId": "k3_challenge",
+      "gameName": "K3 Retail Challenge",
+      "score": 87,
+      "xpEarned": 135,
+      "accuracy": 87,
+      "durationSeconds": 145,
+      "metrics": {
+        "bahayaDitemukan": "6/6"
+      },
+      "playedAt": "2026-11-12T11:00:00.000Z"
+    },
+    {
+      "id": "gm-8",
+      "studentId": "siswa-4",
+      "gameId": "retail_tycoon",
+      "gameName": "Retail Tycoon Simulator",
+      "score": 89,
+      "xpEarned": 145,
+      "accuracy": 89,
+      "durationSeconds": 220,
+      "metrics": {
+        "laba": "Rp 2.600.000"
+      },
+      "playedAt": "2026-11-13T09:00:00.000Z"
+    }
+  ],
+  "progress": [
+    {
+      "studentId": "siswa-1",
+      "completedSubchapters": [
+        "b1-1",
+        "b1-2",
+        "b1-3",
+        "b1-4",
+        "b1-5",
+        "b1-6",
+        "b1-7",
+        "b1-8",
+        "b1-9",
+        "b1-10",
+        "b1-11",
+        "b1-12",
+        "b2-1",
+        "b2-2",
+        "b2-3",
+        "b2-4",
+        "b2-5",
+        "b2-6",
+        "b2-7",
+        "b2-8",
+        "b2-9",
+        "b2-10",
+        "b2-11",
+        "b2-12",
+        "b3-1",
+        "b3-2",
+        "b3-3",
+        "b3-4",
+        "b3-5",
+        "b3-6",
+        "b3-7",
+        "b3-8",
+        "b4-1",
+        "b4-2",
+        "b4-3",
+        "b4-4",
+        "b4-5",
+        "b5-1",
+        "b5-2",
+        "b5-3"
+      ],
+      "completedActivities": [
+        "store_manager",
+        "online_shop",
+        "career_bmc"
+      ],
+      "completedVideos": [
+        "bab-1",
+        "bab-2",
+        "bab-3"
+      ],
+      "reflections": {
+        "bab-1": {
+          "answer1": "Pengelolaan stok FEFO dan pelayanan kasir yang cepat sangat menentukan agar pembeli kembali lagi.",
+          "answer2": "Saya akan menata ulang rak makanan ringan di level pandangan mata dan menambah label harga yang jelas.",
+          "savedAt": "2026-08-19T12:00:00.000Z"
+        }
+      },
+      "lastChapterId": "bab-4",
+      "updatedAt": "2026-11-13T16:20:00.000Z"
+    },
+    {
+      "studentId": "siswa-2",
+      "completedSubchapters": [
+        "b1-1",
+        "b1-2",
+        "b1-3",
+        "b1-4",
+        "b1-5",
+        "b1-6",
+        "b1-7",
+        "b1-8",
+        "b1-9",
+        "b1-10",
+        "b1-11",
+        "b1-12",
+        "b2-1",
+        "b2-2",
+        "b2-3",
+        "b2-4",
+        "b2-5",
+        "b2-6",
+        "b2-7",
+        "b2-8",
+        "b2-9",
+        "b2-10",
+        "b2-11",
+        "b2-12",
+        "b3-1",
+        "b3-2",
+        "b3-3",
+        "b3-4",
+        "b3-5",
+        "b3-6",
+        "b3-7",
+        "b3-8",
+        "b3-9",
+        "b3-10",
+        "b3-11",
+        "b3-12",
+        "b3-13",
+        "b3-14",
+        "b4-1",
+        "b4-2",
+        "b4-3",
+        "b4-4",
+        "b4-5",
+        "b4-6",
+        "b4-7",
+        "b4-8",
+        "b4-9",
+        "b4-10",
+        "b5-1",
+        "b5-2",
+        "b5-3",
+        "b5-4",
+        "b5-5",
+        "b5-6"
+      ],
+      "completedActivities": [
+        "store_manager",
+        "online_shop",
+        "career_bmc",
+        "k3_inspector"
+      ],
+      "completedVideos": [
+        "bab-1",
+        "bab-2",
+        "bab-3",
+        "bab-4"
+      ],
+      "reflections": {},
+      "lastChapterId": "bab-5",
+      "updatedAt": "2026-11-13T15:00:00.000Z"
+    },
+    {
+      "studentId": "siswa-3",
+      "completedSubchapters": [
+        "b1-1",
+        "b1-2",
+        "b1-3",
+        "b1-4",
+        "b1-5",
+        "b1-6",
+        "b2-1",
+        "b2-2",
+        "b2-3",
+        "b4-1",
+        "b4-2"
+      ],
+      "completedActivities": [
+        "store_manager",
+        "k3_inspector"
+      ],
+      "completedVideos": [
+        "bab-1"
+      ],
+      "reflections": {},
+      "lastChapterId": "bab-2",
+      "updatedAt": "2026-11-12T11:30:00.000Z"
+    },
+    {
+      "studentId": "siswa-4",
+      "completedSubchapters": [
+        "b1-1",
+        "b1-2",
+        "b1-3",
+        "b1-4",
+        "b1-5",
+        "b1-6",
+        "b1-7",
+        "b1-8",
+        "b2-1",
+        "b2-2",
+        "b2-3",
+        "b2-4"
+      ],
+      "completedActivities": [
+        "store_manager",
+        "online_shop"
+      ],
+      "completedVideos": [
+        "bab-1",
+        "bab-2"
+      ],
+      "reflections": {},
+      "lastChapterId": "bab-2",
+      "updatedAt": "2026-11-13T09:15:00.000Z"
+    },
+    {
+      "studentId": "siswa-5",
+      "completedSubchapters": [
+        "b1-1",
+        "b1-2",
+        "b1-3",
+        "b1-4",
+        "b1-5"
+      ],
+      "completedActivities": [
+        "store_manager"
+      ],
+      "completedVideos": [
+        "bab-1"
+      ],
+      "reflections": {},
+      "lastChapterId": "bab-1",
+      "updatedAt": "2026-11-10T10:00:00.000Z"
+    },
+    {
+      "studentId": "siswa-6",
+      "completedSubchapters": [
+        "b1-1",
+        "b1-2",
+        "b1-3"
+      ],
+      "completedActivities": [],
+      "completedVideos": [
+        "bab-1"
+      ],
+      "reflections": {},
+      "lastChapterId": "bab-1",
+      "updatedAt": "2026-11-08T10:00:00.000Z"
+    }
+  ],
+  "attendance": [
+    {
+      "id": "abs-1",
+      "studentId": "siswa-1",
+      "date": "2026-11-03",
+      "status": "Hadir"
+    },
+    {
+      "id": "abs-2",
+      "studentId": "siswa-1",
+      "date": "2026-11-05",
+      "status": "Hadir"
+    },
+    {
+      "id": "abs-3",
+      "studentId": "siswa-1",
+      "date": "2026-11-07",
+      "status": "Hadir"
+    },
+    {
+      "id": "abs-4",
+      "studentId": "siswa-1",
+      "date": "2026-11-10",
+      "status": "Izin",
+      "note": "Lomba LKS Pemasaran Tingkat Kota"
+    },
+    {
+      "id": "abs-5",
+      "studentId": "siswa-1",
+      "date": "2026-11-12",
+      "status": "Hadir"
+    },
+    {
+      "id": "abs-6",
+      "studentId": "siswa-1",
+      "date": "2026-11-14",
+      "status": "Hadir"
+    },
+    {
+      "id": "abs-7",
+      "studentId": "siswa-2",
+      "date": "2026-11-10",
+      "status": "Hadir"
+    },
+    {
+      "id": "abs-8",
+      "studentId": "siswa-2",
+      "date": "2026-11-12",
+      "status": "Hadir"
+    },
+    {
+      "id": "abs-9",
+      "studentId": "siswa-2",
+      "date": "2026-11-14",
+      "status": "Hadir"
+    }
+  ],
+  "teacherNotes": [
+    {
+      "id": "note-1",
+      "studentId": "siswa-1",
+      "teacherId": "guru-1",
+      "teacherName": "Ratna Sari, S.E., M.Pd.",
+      "strengths": "Sangat menonjol dalam komunikasi pelayanan pelanggan, pemahaman proses bisnis ritel, serta perancangan model bisnis sederhana.",
+      "improvements": "Perlu memperdalam materi Bab 4 (Keselamatan Kerja & Pencegahan Shrinkage) dan menyelesaikan latihan Bab 5.",
+      "recommendation": "Ulangi subbab 4.7–4.11 lalu mainkan game K3 Retail Challenge untuk menguatkan pemahaman audit keselamatan toko.",
+      "note": "Alya menunjukkan antusiasme belajar tinggi dan aktif dalam simulasi praktik kelas. Pertahankan konsistensi belajar menuju UAS.",
+      "updatedAt": "2026-11-13T10:00:00.000Z"
+    },
+    {
+      "id": "note-2",
+      "studentId": "siswa-2",
+      "teacherId": "guru-1",
+      "teacherName": "Ratna Sari, S.E., M.Pd.",
+      "strengths": "Penguasaan materi merata sangat baik di Bab 1 hingga Bab 5 dengan kepemimpinan proyek tim yang kuat.",
+      "improvements": "Terus latih kecepatan analisis studi kasus omnichannel untuk persiapan lomba kompetensi siswa.",
+      "recommendation": "Coba tantangan Digital Marketing Master dengan target ROAS di atas 4.0x.",
+      "note": "Prestasi akademik dan simulasi game sangat memuaskan.",
+      "updatedAt": "2026-11-13T10:15:00.000Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-login-1794715257023",
+      "targetRole": "super_admin",
+      "targetUserId": "super_admin-1794715256805",
+      "category": "keamanan",
+      "title": "Login Berhasil",
+      "message": "Masuk ke MARKETVERSE X pada 15/11/2026, 04.00.57 menggunakan API Client di Sistem Lain (IP: 127.0.0.1).",
+      "isReadBy": [],
+      "createdAt": "2026-11-15T04:00:57.023Z"
+    },
+    {
+      "id": "notif-login-1794715256760",
+      "targetRole": "super_admin",
+      "targetUserId": "superadmin-1",
+      "category": "keamanan",
+      "title": "Login Berhasil",
+      "message": "Masuk ke MARKETVERSE X pada 15/11/2026, 04.00.56 menggunakan API Client di Sistem Lain (IP: 127.0.0.1).",
+      "isReadBy": [],
+      "createdAt": "2026-11-15T04:00:56.759Z"
+    },
+    {
+      "id": "notif-sec-1794715049166",
+      "targetRole": "siswa",
+      "targetUserId": "siswa-1794715046328",
+      "category": "keamanan",
+      "title": "Peringatan Login Mencurigakan",
+      "message": "Terdeteksi 5x percobaan kata sandi salah ke akun Anda dari API Client di Sistem Lain (10.99.99.99).",
+      "isReadBy": [],
+      "createdAt": "2026-11-15T03:57:29.166Z"
+    },
+    {
+      "id": "notif-sec-1794715048395",
+      "targetRole": "siswa",
+      "targetUserId": "siswa-1794715046328",
+      "category": "keamanan",
+      "title": "Peringatan Login Mencurigakan",
+      "message": "Terdeteksi 4x percobaan kata sandi salah ke akun Anda dari API Client di Sistem Lain (10.99.99.99).",
+      "isReadBy": [],
+      "createdAt": "2026-11-15T03:57:28.395Z"
+    },
+    {
+      "id": "notif-sec-1794715047554",
+      "targetRole": "siswa",
+      "targetUserId": "siswa-1794715046328",
+      "category": "keamanan",
+      "title": "Peringatan Login Mencurigakan",
+      "message": "Terdeteksi 3x percobaan kata sandi salah ke akun Anda dari API Client di Sistem Lain (10.99.99.99).",
+      "isReadBy": [],
+      "createdAt": "2026-11-15T03:57:27.554Z"
+    },
+    {
+      "id": "notif-login-1794715046978",
+      "targetRole": "siswa",
+      "targetUserId": "siswa-1794715046328",
+      "category": "keamanan",
+      "title": "Login Berhasil",
+      "message": "Masuk ke MARKETVERSE X pada 15/11/2026, 03.57.26 menggunakan API Client di Sistem Lain (IP: 127.0.0.1).",
+      "isReadBy": [],
+      "createdAt": "2026-11-15T03:57:26.977Z"
+    },
+    {
+      "id": "notif-pwd-1794715046769",
+      "targetRole": "siswa",
+      "targetUserId": "siswa-1794715046328",
+      "category": "keamanan",
+      "title": "Kata Sandi Berhasil Direset",
+      "message": "Kata sandi akun Anda baru saja diperbarui melalui verifikasi pemulihan.",
+      "isReadBy": [],
+      "createdAt": "2026-11-15T03:57:26.769Z"
+    },
+    {
+      "id": "notif-rst-1794715046545",
+      "targetRole": "super_admin",
+      "category": "keamanan",
+      "title": "Permintaan Reset Kata Sandi",
+      "message": "Akun Uji Keamanan (uji.keamanan@marketverse.sch.id) meminta verifikasi reset kata sandi.",
+      "isReadBy": [],
+      "createdAt": "2026-11-15T03:57:26.545Z"
+    },
+    {
+      "id": "notif-login-1794715046167",
+      "targetRole": "orang_tua",
+      "targetUserId": "ortu-1",
+      "category": "keamanan",
+      "title": "Login Berhasil",
+      "message": "Masuk ke MARKETVERSE X pada 15/11/2026, 03.57.26 menggunakan API Client di Sistem Lain (IP: 127.0.0.1).",
+      "isReadBy": [],
+      "createdAt": "2026-11-15T03:57:26.167Z"
+    },
+    {
+      "id": "notif-login-1794715045852",
+      "targetRole": "siswa",
+      "targetUserId": "siswa-1",
+      "category": "keamanan",
+      "title": "Login Berhasil",
+      "message": "Masuk ke MARKETVERSE X pada 15/11/2026, 03.57.25 menggunakan API Client di Sistem Lain (IP: 127.0.0.1).",
+      "isReadBy": [],
+      "createdAt": "2026-11-15T03:57:25.851Z"
+    },
+    {
+      "id": "notif-login-1794715045543",
+      "targetRole": "guru",
+      "targetUserId": "guru-1",
+      "category": "keamanan",
+      "title": "Login Berhasil",
+      "message": "Masuk ke MARKETVERSE X pada 15/11/2026, 03.57.25 menggunakan API Client di Sistem Lain (IP: 127.0.0.1).",
+      "isReadBy": [],
+      "createdAt": "2026-11-15T03:57:25.543Z"
+    },
+    {
+      "id": "notif-login-1794715045237",
+      "targetRole": "admin",
+      "targetUserId": "admin-1",
+      "category": "keamanan",
+      "title": "Login Berhasil",
+      "message": "Masuk ke MARKETVERSE X pada 15/11/2026, 03.57.25 menggunakan API Client di Sistem Lain (IP: 127.0.0.1).",
+      "isReadBy": [],
+      "createdAt": "2026-11-15T03:57:25.236Z"
+    },
+    {
+      "id": "notif-login-1794715044776",
+      "targetRole": "super_admin",
+      "targetUserId": "superadmin-1",
+      "category": "keamanan",
+      "title": "Login Berhasil",
+      "message": "Masuk ke MARKETVERSE X pada 15/11/2026, 03.57.24 menggunakan API Client di Sistem Lain (IP: 127.0.0.1).",
+      "isReadBy": [],
+      "createdAt": "2026-11-15T03:57:24.775Z"
+    },
+    {
+      "id": "notif-login-1794715013485",
+      "targetRole": "admin",
+      "targetUserId": "admin-1",
+      "category": "keamanan",
+      "title": "Login Berhasil",
+      "message": "Masuk ke MARKETVERSE X pada 15/11/2026, 03.56.53 menggunakan API Client di Sistem Lain (IP: 127.0.0.1).",
+      "isReadBy": [],
+      "createdAt": "2026-11-15T03:56:53.485Z"
+    },
+    {
+      "id": "notif-login-1794715013341",
+      "targetRole": "super_admin",
+      "targetUserId": "superadmin-1",
+      "category": "keamanan",
+      "title": "Login Berhasil",
+      "message": "Masuk ke MARKETVERSE X pada 15/11/2026, 03.56.53 menggunakan API Client di Sistem Lain (IP: 127.0.0.1).",
+      "isReadBy": [],
+      "createdAt": "2026-11-15T03:56:53.340Z"
+    },
+    {
+      "id": "notif-1",
+      "targetRole": "siswa",
+      "category": "tugas",
+      "title": "Tugas Praktik Baru: Dialog Penanganan Komplain",
+      "message": "Ibu Ratna Sari menambahkan Tugas Praktik Bab 5 dengan batas pengumpulan 26 November 2026.",
+      "isReadBy": [],
+      "createdAt": "2026-11-13T08:00:00.000Z"
+    },
+    {
+      "id": "notif-2",
+      "targetRole": "siswa",
+      "category": "ujian",
+      "title": "Jadwal Ujian Akhir Bab 5 & UAS Semester Ganjil",
+      "message": "Ujian Akhir Bab 5 dijadwalkan pada 28 November 2026 dan UAS pada 12 Desember 2026.",
+      "isReadBy": [],
+      "createdAt": "2026-11-13T09:00:00.000Z"
+    },
+    {
+      "id": "notif-3",
+      "targetRole": "orang_tua",
+      "targetUserId": "ortu-1",
+      "category": "orang_tua",
+      "title": "Laporan Perkembangan Belajar Alya Putri Maharani",
+      "message": "Alya meraih skor 92 pada simulasi Customer Service Hero dan memperoleh badge Duta Pelayanan Prima.",
+      "isReadBy": [],
+      "createdAt": "2026-11-13T16:30:00.000Z"
+    },
+    {
+      "id": "notif-4",
+      "targetRole": "guru",
+      "category": "tugas",
+      "title": "1 Pengumpulan Tugas Menunggu Penilaian",
+      "message": "Alya Putri Maharani (X PM 1) telah mengumpulkan Praktik Business Model Canvas Bab 3.",
+      "isReadBy": [],
+      "createdAt": "2026-11-14T07:30:00.000Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log-1794715257034-3dwo",
+      "userId": "super_admin-1794715256805",
+      "userName": "Shaeriyati (Super Admin)",
+      "role": "super_admin",
+      "action": "LOGOUT",
+      "detail": "Logout dari API Client di Sistem Lain",
+      "ipAddress": "127.0.0.1",
+      "deviceLabel": "API Client di Sistem Lain",
+      "timestamp": "2026-11-15T04:00:57.034Z"
+    },
+    {
+      "id": "log-1794715257030-fv7f",
+      "userId": "superadmin-1",
+      "userName": "Dr. Hendra Kusuma, M.T.",
+      "role": "super_admin",
+      "action": "LOGOUT",
+      "detail": "Logout dari API Client di Sistem Lain",
+      "ipAddress": "127.0.0.1",
+      "deviceLabel": "API Client di Sistem Lain",
+      "timestamp": "2026-11-15T04:00:57.030Z"
+    },
+    {
+      "id": "log-1794715257023-b80u",
+      "userId": "super_admin-1794715256805",
+      "userName": "Shaeriyati (Super Admin)",
+      "role": "super_admin",
+      "action": "LOGIN",
+      "detail": "Login berhasil (super_admin) via API Client di Sistem Lain",
+      "ipAddress": "127.0.0.1",
+      "deviceLabel": "API Client di Sistem Lain",
+      "timestamp": "2026-11-15T04:00:57.023Z"
+    },
+    {
+      "id": "log-1794715256909-7qg9",
+      "userId": "superadmin-1",
+      "userName": "Dr. Hendra Kusuma, M.T.",
+      "role": "super_admin",
+      "action": "CREATE_USER",
+      "detail": "Membuat akun super_admin: shaeriyati (shaeriyati@gmail.com)",
+      "timestamp": "2026-11-15T04:00:56.910Z"
+    },
+    {
+      "id": "log-1794715256778-kzmz",
+      "userId": "superadmin-1",
+      "userName": "Dr. Hendra Kusuma, M.T.",
+      "role": "super_admin",
+      "action": "LOGIN",
+      "detail": "Login berhasil (super_admin) via API Client di Sistem Lain",
+      "ipAddress": "127.0.0.1",
+      "deviceLabel": "API Client di Sistem Lain",
+      "timestamp": "2026-11-15T04:00:56.778Z"
+    },
+    {
+      "id": "log-1794715049207-qhbu",
+      "userId": "ortu-1",
+      "userName": "Ibu Hendrawati",
+      "role": "orang_tua",
+      "action": "LOGOUT",
+      "detail": "Logout dari API Client di Sistem Lain",
+      "ipAddress": "127.0.0.1",
+      "deviceLabel": "API Client di Sistem Lain",
+      "timestamp": "2026-11-15T03:57:29.207Z"
+    },
+    {
+      "id": "log-1794715049203-wvwg",
+      "userId": "siswa-1",
+      "userName": "Alya Putri Maharani",
+      "role": "siswa",
+      "action": "LOGOUT",
+      "detail": "Logout dari API Client di Sistem Lain",
+      "ipAddress": "127.0.0.1",
+      "deviceLabel": "API Client di Sistem Lain",
+      "timestamp": "2026-11-15T03:57:29.203Z"
+    },
+    {
+      "id": "log-1794715049198-g88j",
+      "userId": "admin-1",
+      "userName": "Budi Santoso, S.Kom.",
+      "role": "admin",
+      "action": "LOGOUT",
+      "detail": "Logout dari API Client di Sistem Lain",
+      "ipAddress": "127.0.0.1",
+      "deviceLabel": "API Client di Sistem Lain",
+      "timestamp": "2026-11-15T03:57:29.198Z"
+    },
+    {
+      "id": "log-1794715049194-ak3o",
+      "userId": "superadmin-1",
+      "userName": "Dr. Hendra Kusuma, M.T.",
+      "role": "super_admin",
+      "action": "LOGOUT",
+      "detail": "Logout dari API Client di Sistem Lain",
+      "ipAddress": "127.0.0.1",
+      "deviceLabel": "API Client di Sistem Lain",
+      "timestamp": "2026-11-15T03:57:29.194Z"
+    },
+    {
+      "id": "log-1794715049187-48l5",
+      "userId": "guru-1",
+      "userName": "Ratna Sari, S.E., M.Pd.",
+      "role": "guru",
+      "action": "LOGOUT",
+      "detail": "Logout dari API Client di Sistem Lain",
+      "ipAddress": "127.0.0.1",
+      "deviceLabel": "API Client di Sistem Lain",
+      "timestamp": "2026-11-15T03:57:29.187Z"
+    },
+    {
+      "id": "log-1794715049180-7scx",
+      "userId": "superadmin-1",
+      "userName": "Dr. Hendra Kusuma, M.T.",
+      "role": "super_admin",
+      "action": "DELETE_USER",
+      "detail": "Menghapus akun uji.keamanan@marketverse.sch.id (siswa)",
+      "timestamp": "2026-11-15T03:57:29.180Z"
+    },
+    {
+      "id": "log-1794715046978-wb1k",
+      "userId": "siswa-1794715046328",
+      "userName": "Uji Keamanan",
+      "role": "siswa",
+      "action": "LOGIN",
+      "detail": "Login berhasil (siswa) via API Client di Sistem Lain",
+      "ipAddress": "127.0.0.1",
+      "deviceLabel": "API Client di Sistem Lain",
+      "timestamp": "2026-11-15T03:57:26.978Z"
+    },
+    {
+      "id": "log-1794715046769-val7",
+      "userId": "siswa-1794715046328",
+      "userName": "Uji Keamanan",
+      "role": "siswa",
+      "action": "RESET_PASSWORD",
+      "detail": "Reset password berhasil untuk uji.keamanan@marketverse.sch.id",
+      "timestamp": "2026-11-15T03:57:26.769Z"
+    },
+    {
+      "id": "log-1794715046545-rqff",
+      "userId": "siswa-1794715046328",
+      "userName": "Uji Keamanan",
+      "role": "siswa",
+      "action": "FORGOT_PASSWORD_REQUEST",
+      "detail": "Permintaan kode verifikasi reset password untuk uji.keamanan@marketverse.sch.id",
+      "timestamp": "2026-11-15T03:57:26.545Z"
+    },
+    {
+      "id": "log-1794715046537-bgt1",
+      "userId": "superadmin-1",
+      "userName": "Dr. Hendra Kusuma, M.T.",
+      "role": "super_admin",
+      "action": "CREATE_USER",
+      "detail": "Membuat akun siswa: uji.keamanan (uji.keamanan@marketverse.sch.id)",
+      "timestamp": "2026-11-15T03:57:26.537Z"
+    },
+    {
+      "id": "log-1794715046167-b3kl",
+      "userId": "ortu-1",
+      "userName": "Ibu Hendrawati",
+      "role": "orang_tua",
+      "action": "LOGIN",
+      "detail": "Login berhasil (orang_tua) via API Client di Sistem Lain",
+      "ipAddress": "127.0.0.1",
+      "deviceLabel": "API Client di Sistem Lain",
+      "timestamp": "2026-11-15T03:57:26.167Z"
+    },
+    {
+      "id": "log-1794715045852-2wt9",
+      "userId": "siswa-1",
+      "userName": "Alya Putri Maharani",
+      "role": "siswa",
+      "action": "LOGIN",
+      "detail": "Login berhasil (siswa) via API Client di Sistem Lain",
+      "ipAddress": "127.0.0.1",
+      "deviceLabel": "API Client di Sistem Lain",
+      "timestamp": "2026-11-15T03:57:25.852Z"
+    },
+    {
+      "id": "log-1794715045543-8r9r",
+      "userId": "guru-1",
+      "userName": "Ratna Sari, S.E., M.Pd.",
+      "role": "guru",
+      "action": "LOGIN",
+      "detail": "Login berhasil (guru) via API Client di Sistem Lain",
+      "ipAddress": "127.0.0.1",
+      "deviceLabel": "API Client di Sistem Lain",
+      "timestamp": "2026-11-15T03:57:25.543Z"
+    },
+    {
+      "id": "log-1794715045237-3gde",
+      "userId": "admin-1",
+      "userName": "Budi Santoso, S.Kom.",
+      "role": "admin",
+      "action": "LOGIN",
+      "detail": "Login berhasil (admin) via API Client di Sistem Lain",
+      "ipAddress": "127.0.0.1",
+      "deviceLabel": "API Client di Sistem Lain",
+      "timestamp": "2026-11-15T03:57:25.237Z"
+    },
+    {
+      "id": "log-1794715044849-6lie",
+      "userId": "superadmin-1",
+      "userName": "Dr. Hendra Kusuma, M.T.",
+      "role": "super_admin",
+      "action": "LOGIN",
+      "detail": "Login berhasil (super_admin) via API Client di Sistem Lain",
+      "ipAddress": "127.0.0.1",
+      "deviceLabel": "API Client di Sistem Lain",
+      "timestamp": "2026-11-15T03:57:24.849Z"
+    },
+    {
+      "id": "log-1794715013485-0z8s",
+      "userId": "admin-1",
+      "userName": "Budi Santoso, S.Kom.",
+      "role": "admin",
+      "action": "LOGIN",
+      "detail": "Login berhasil (admin) via API Client di Sistem Lain",
+      "ipAddress": "127.0.0.1",
+      "deviceLabel": "API Client di Sistem Lain",
+      "timestamp": "2026-11-15T03:56:53.485Z"
+    },
+    {
+      "id": "log-1794715013359-xki2",
+      "userId": "superadmin-1",
+      "userName": "Dr. Hendra Kusuma, M.T.",
+      "role": "super_admin",
+      "action": "LOGIN",
+      "detail": "Login berhasil (super_admin) via API Client di Sistem Lain",
+      "ipAddress": "127.0.0.1",
+      "deviceLabel": "API Client di Sistem Lain",
+      "timestamp": "2026-11-15T03:56:53.359Z"
+    },
+    {
+      "id": "log-1794714374059-78we",
+      "userId": "siswa-1",
+      "userName": "Alya Putri Maharani",
+      "role": "siswa",
+      "action": "LOGIN",
+      "detail": "Login berhasil (siswa)",
+      "timestamp": "2026-11-15T03:46:14.059Z"
+    },
+    {
+      "id": "log-1794714335866-mngn",
+      "userId": "admin-1",
+      "userName": "Budi Santoso, S.Kom.",
+      "role": "admin",
+      "action": "LOGIN",
+      "detail": "Login berhasil (admin)",
+      "timestamp": "2026-11-15T03:45:35.866Z"
+    },
+    {
+      "id": "log-1794713951840-v1r9",
+      "userId": "siswa-1",
+      "userName": "Alya Putri Maharani",
+      "role": "siswa",
+      "action": "LOGIN",
+      "detail": "Login berhasil (siswa)",
+      "timestamp": "2026-11-15T03:39:11.840Z"
+    },
+    {
+      "id": "log-1794713933463-j07j",
+      "userId": "siswa-1",
+      "userName": "Alya Putri Maharani",
+      "role": "siswa",
+      "action": "LOGIN",
+      "detail": "Login berhasil (siswa)",
+      "timestamp": "2026-11-15T03:38:53.463Z"
+    },
+    {
+      "id": "log-1794713867146-xiej",
+      "userId": "siswa-1",
+      "userName": "Alya Putri Maharani",
+      "role": "siswa",
+      "action": "LOGIN",
+      "detail": "Login berhasil (siswa)",
+      "timestamp": "2026-11-15T03:37:47.146Z"
+    },
+    {
+      "id": "log-1794705715109-ld75",
+      "userId": "admin-1",
+      "userName": "Budi Santoso, S.Kom.",
+      "role": "admin",
+      "action": "LOGIN",
+      "detail": "Login berhasil (admin)",
+      "timestamp": "2026-11-15T01:21:55.109Z"
+    },
+    {
+      "id": "log-1794705714991-s7bg",
+      "userId": "guru-1",
+      "userName": "Ratna Sari, S.E., M.Pd.",
+      "role": "guru",
+      "action": "LOGIN",
+      "detail": "Login berhasil (guru)",
+      "timestamp": "2026-11-15T01:21:54.991Z"
+    },
+    {
+      "id": "log-1794705714865-wau0",
+      "userId": "ortu-1",
+      "userName": "Ibu Hendrawati",
+      "role": "orang_tua",
+      "action": "LOGIN",
+      "detail": "Login berhasil (orang_tua)",
+      "timestamp": "2026-11-15T01:21:54.865Z"
+    },
+    {
+      "id": "log-1794705714717-r0f4",
+      "userId": "siswa-1",
+      "userName": "Alya Putri Maharani",
+      "role": "siswa",
+      "action": "LOGIN",
+      "detail": "Login berhasil (siswa)",
+      "timestamp": "2026-11-15T01:21:54.717Z"
+    },
+    {
+      "id": "log-1",
+      "userId": "admin-1",
+      "userName": "Budi Santoso, S.Kom.",
+      "role": "admin",
+      "action": "SYSTEM_INIT",
+      "detail": "Inisialisasi database MARKETVERSE X Tahun Pelajaran 2026/2027 Semester Ganjil.",
+      "timestamp": "2026-07-01T07:00:00.000Z"
+    },
+    {
+      "id": "log-2",
+      "userId": "guru-1",
+      "userName": "Ratna Sari, S.E., M.Pd.",
+      "role": "guru",
+      "action": "UPDATE_WEIGHTS",
+      "detail": "Konfigurasi bobot nilai: Pengetahuan 35%, Keterampilan 25%, Proyek 20%, Game 20%.",
+      "timestamp": "2026-07-15T08:00:00.000Z"
+    }
+  ],
+  "roles": [
+    {
+      "id": "role-super-admin",
+      "role": "super_admin",
+      "displayName": "Super Admin",
+      "description": "Otoritas penuh atas seluruh sistem, konfigurasi website, hak akses role, database, dan akun.",
+      "permissions": [
+        "all_system_access",
+        "manage_super_admins",
+        "manage_admins",
+        "manage_teachers",
+        "manage_students",
+        "manage_roles_permissions",
+        "manage_website_config",
+        "manage_database_backup",
+        "view_all_audit_and_sessions",
+        "manage_classes_subjects"
+      ],
+      "updatedAt": "2026-11-15T03:56:38.936Z"
+    },
+    {
+      "id": "role-admin",
+      "role": "admin",
+      "displayName": "Admin / Operator",
+      "description": "Mengelola data guru, siswa, kelas/rombel, mata pelajaran, akun non-superadmin, dan laporan aktivitas.",
+      "permissions": [
+        "manage_teachers",
+        "manage_students",
+        "manage_parents",
+        "manage_classes_subjects",
+        "bulk_import_export_users",
+        "view_activity_reports"
+      ],
+      "updatedAt": "2026-11-15T03:56:38.936Z"
+    },
+    {
+      "id": "role-guru",
+      "role": "guru",
+      "displayName": "Guru",
+      "description": "Mengelola materi pembelajaran 5 bab, soal kuis/ujian, tugas, penilaian, dan pantau siswa.",
+      "permissions": [
+        "manage_materials",
+        "manage_assessments",
+        "manage_assignments",
+        "grade_students",
+        "view_student_progress",
+        "download_class_reports"
+      ],
+      "updatedAt": "2026-11-15T03:56:38.936Z"
+    },
+    {
+      "id": "role-siswa",
+      "role": "siswa",
+      "displayName": "Siswa",
+      "description": "Mengakses materi, kuis, ujian, tugas, game Marketverse Arena, XP, level, badge, dan rapor.",
+      "permissions": [
+        "view_curriculum",
+        "take_assessments",
+        "submit_assignments",
+        "play_arena_games",
+        "view_leaderboard",
+        "download_own_report"
+      ],
+      "updatedAt": "2026-11-15T03:56:38.936Z"
+    },
+    {
+      "id": "role-orang-tua",
+      "role": "orang_tua",
+      "displayName": "Orang Tua / Wali",
+      "description": "Memantau kehadiran, nilai, aktivitas belajar, pencapaian game, dan rapor anak tertaut.",
+      "permissions": [
+        "view_linked_child_progress",
+        "download_linked_child_report"
+      ],
+      "updatedAt": "2026-11-15T03:56:38.936Z"
+    }
+  ],
+  "user_sessions": [
+    {
+      "id": "sess-1794715257023-b0fff863",
+      "userId": "super_admin-1794715256805",
+      "tokenHash": "34e2ee075794a22163136719f0cd4521ae8d6e2a0e35295f74608314e0c02b6f",
+      "ipAddress": "127.0.0.1",
+      "userAgent": "node",
+      "deviceLabel": "API Client di Sistem Lain",
+      "browser": "API Client",
+      "os": "Sistem Lain",
+      "rememberMe": false,
+      "createdAt": "2026-11-15T04:00:57.023Z",
+      "lastActiveAt": "2026-11-15T04:00:57.023Z",
+      "expiresAt": 1794801657023,
+      "isRevoked": true
+    },
+    {
+      "id": "sess-1794715256760-5f3a7157",
+      "userId": "superadmin-1",
+      "tokenHash": "11be6afc352f372ed269e4e2389488c5e17e9d10fbad2c745fb5b7b315e5c863",
+      "ipAddress": "127.0.0.1",
+      "userAgent": "node",
+      "deviceLabel": "API Client di Sistem Lain",
+      "browser": "API Client",
+      "os": "Sistem Lain",
+      "rememberMe": false,
+      "createdAt": "2026-11-15T04:00:56.760Z",
+      "lastActiveAt": "2026-11-15T04:00:56.805Z",
+      "expiresAt": 1794801656760,
+      "isRevoked": true
+    },
+    {
+      "id": "sess-1794715013485-1d504352",
+      "userId": "admin-1",
+      "tokenHash": "53bf984f1b48e7f364b7c1aa3f7d8681bf5227aa55410c7b9d419ec2ef949ad3",
+      "ipAddress": "127.0.0.1",
+      "userAgent": "node",
+      "deviceLabel": "API Client di Sistem Lain",
+      "browser": "API Client",
+      "os": "Sistem Lain",
+      "rememberMe": true,
+      "createdAt": "2026-11-15T03:56:53.485Z",
+      "lastActiveAt": "2026-11-15T03:56:53.485Z",
+      "expiresAt": 1797307013485,
+      "isRevoked": false
+    },
+    {
+      "id": "sess-1794715013340-2b30686e",
+      "userId": "superadmin-1",
+      "tokenHash": "9a82db561a0f7db4c752b7930e670bba07902b6461aa7960f08ca290e9bf1945",
+      "ipAddress": "127.0.0.1",
+      "userAgent": "node",
+      "deviceLabel": "API Client di Sistem Lain",
+      "browser": "API Client",
+      "os": "Sistem Lain",
+      "rememberMe": true,
+      "createdAt": "2026-11-15T03:56:53.340Z",
+      "lastActiveAt": "2026-11-15T03:56:53.340Z",
+      "expiresAt": 1797307013341,
+      "isRevoked": false
+    }
+  ],
+  "login_attempts": [
+    {
+      "id": "att-1794715257023-ooqx",
+      "identifier": "shaeriyati@gmail.com",
+      "userId": "super_admin-1794715256805",
+      "ipAddress": "127.0.0.1",
+      "userAgent": "node",
+      "deviceLabel": "API Client di Sistem Lain",
+      "success": true,
+      "reason": "Login berhasil",
+      "attemptedAt": "2026-11-15T04:00:57.023Z"
+    },
+    {
+      "id": "att-1794715256759-3dh3",
+      "identifier": "superadmin",
+      "userId": "superadmin-1",
+      "ipAddress": "127.0.0.1",
+      "userAgent": "node",
+      "deviceLabel": "API Client di Sistem Lain",
+      "success": true,
+      "reason": "Login berhasil",
+      "attemptedAt": "2026-11-15T04:00:56.759Z"
+    },
+    {
+      "id": "att-1794715049166-fp4r",
+      "identifier": "uji.keamanan",
+      "userId": "siswa-1794715046328",
+      "ipAddress": "10.99.99.99",
+      "userAgent": "node",
+      "deviceLabel": "API Client di Sistem Lain",
+      "success": false,
+      "reason": "Username/email atau kata sandi salah",
+      "attemptedAt": "2026-11-15T03:57:29.166Z"
+    },
+    {
+      "id": "att-1794715048395-rmz1",
+      "identifier": "uji.keamanan",
+      "userId": "siswa-1794715046328",
+      "ipAddress": "10.99.99.99",
+      "userAgent": "node",
+      "deviceLabel": "API Client di Sistem Lain",
+      "success": false,
+      "reason": "Username/email atau kata sandi salah",
+      "attemptedAt": "2026-11-15T03:57:28.395Z"
+    },
+    {
+      "id": "att-1794715047554-d8en",
+      "identifier": "uji.keamanan",
+      "userId": "siswa-1794715046328",
+      "ipAddress": "10.99.99.99",
+      "userAgent": "node",
+      "deviceLabel": "API Client di Sistem Lain",
+      "success": false,
+      "reason": "Username/email atau kata sandi salah",
+      "attemptedAt": "2026-11-15T03:57:27.554Z"
+    },
+    {
+      "id": "att-1794715047384-iwwa",
+      "identifier": "uji.keamanan",
+      "userId": "siswa-1794715046328",
+      "ipAddress": "10.99.99.99",
+      "userAgent": "node",
+      "deviceLabel": "API Client di Sistem Lain",
+      "success": false,
+      "reason": "Username/email atau kata sandi salah",
+      "attemptedAt": "2026-11-15T03:57:27.384Z"
+    },
+    {
+      "id": "att-1794715047233-3m92",
+      "identifier": "uji.keamanan",
+      "userId": "siswa-1794715046328",
+      "ipAddress": "10.99.99.99",
+      "userAgent": "node",
+      "deviceLabel": "API Client di Sistem Lain",
+      "success": false,
+      "reason": "Username/email atau kata sandi salah",
+      "attemptedAt": "2026-11-15T03:57:27.233Z"
+    },
+    {
+      "id": "att-1794715046977-d4la",
+      "identifier": "uji.keamanan",
+      "userId": "siswa-1794715046328",
+      "ipAddress": "127.0.0.1",
+      "userAgent": "node",
+      "deviceLabel": "API Client di Sistem Lain",
+      "success": true,
+      "reason": "Login berhasil",
+      "attemptedAt": "2026-11-15T03:57:26.977Z"
+    },
+    {
+      "id": "att-1794715046167-9dll",
+      "identifier": "ortu",
+      "userId": "ortu-1",
+      "ipAddress": "127.0.0.1",
+      "userAgent": "node",
+      "deviceLabel": "API Client di Sistem Lain",
+      "success": true,
+      "reason": "Login berhasil",
+      "attemptedAt": "2026-11-15T03:57:26.167Z"
+    },
+    {
+      "id": "att-1794715045851-uxib",
+      "identifier": "siswa",
+      "userId": "siswa-1",
+      "ipAddress": "127.0.0.1",
+      "userAgent": "node",
+      "deviceLabel": "API Client di Sistem Lain",
+      "success": true,
+      "reason": "Login berhasil",
+      "attemptedAt": "2026-11-15T03:57:25.851Z"
+    },
+    {
+      "id": "att-1794715045543-vps7",
+      "identifier": "guru",
+      "userId": "guru-1",
+      "ipAddress": "127.0.0.1",
+      "userAgent": "node",
+      "deviceLabel": "API Client di Sistem Lain",
+      "success": true,
+      "reason": "Login berhasil",
+      "attemptedAt": "2026-11-15T03:57:25.543Z"
+    },
+    {
+      "id": "att-1794715045236-aurr",
+      "identifier": "admin@marketverse.sch.id",
+      "userId": "admin-1",
+      "ipAddress": "127.0.0.1",
+      "userAgent": "node",
+      "deviceLabel": "API Client di Sistem Lain",
+      "success": true,
+      "reason": "Login berhasil",
+      "attemptedAt": "2026-11-15T03:57:25.236Z"
+    },
+    {
+      "id": "att-1794715044775-pv7t",
+      "identifier": "superadmin",
+      "userId": "superadmin-1",
+      "ipAddress": "127.0.0.1",
+      "userAgent": "node",
+      "deviceLabel": "API Client di Sistem Lain",
+      "success": true,
+      "reason": "Login berhasil",
+      "attemptedAt": "2026-11-15T03:57:24.775Z"
+    },
+    {
+      "id": "att-1794715013493-vjhl",
+      "identifier": "guru.ratna",
+      "ipAddress": "127.0.0.1",
+      "userAgent": "node",
+      "deviceLabel": "API Client di Sistem Lain",
+      "success": false,
+      "reason": "Username/email atau kata sandi salah",
+      "attemptedAt": "2026-11-15T03:56:53.493Z"
+    },
+    {
+      "id": "att-1794715013485-btgi",
+      "identifier": "admin@marketverse.sch.id",
+      "userId": "admin-1",
+      "ipAddress": "127.0.0.1",
+      "userAgent": "node",
+      "deviceLabel": "API Client di Sistem Lain",
+      "success": true,
+      "reason": "Login berhasil",
+      "attemptedAt": "2026-11-15T03:56:53.485Z"
+    },
+    {
+      "id": "att-1794715013340-ca44",
+      "identifier": "superadmin",
+      "userId": "superadmin-1",
+      "ipAddress": "127.0.0.1",
+      "userAgent": "node",
+      "deviceLabel": "API Client di Sistem Lain",
+      "success": true,
+      "reason": "Login berhasil",
+      "attemptedAt": "2026-11-15T03:56:53.340Z"
+    }
+  ],
+  "password_resets": [
+    {
+      "id": "rst-1794715046545",
+      "userId": "siswa-1794715046328",
+      "identifier": "uji.keamanan@marketverse.sch.id",
+      "codeHash": "a470402974017ee4e04bd0e6e8d650d2f2c053525eaf5ccf5dfc72f71dd18ac6",
+      "expiresAt": "2026-11-15T04:12:26.545Z",
+      "attempts": 0,
+      "createdAt": "2026-11-15T03:57:26.545Z",
+      "usedAt": "2026-11-15T03:57:26.552Z"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "subj-ddp",
+      "code": "DDP-X-01",
+      "name": "Dasar-Dasar Pemasaran",
+      "grade": "Kelas X",
+      "hoursPerWeek": 12,
+      "teacherName": "Ratna Sari, S.E., M.Pd.",
+      "isActive": true
+    },
+    {
+      "id": "subj-kombin",
+      "code": "KMB-X-02",
+      "name": "Komunikasi Bisnis & Pelayanan Prima",
+      "grade": "Kelas X",
+      "hoursPerWeek": 4,
+      "teacherName": "Ratna Sari, S.E., M.Pd.",
+      "isActive": true
+    },
+    {
+      "id": "subj-digmar",
+      "code": "DGM-X-03",
+      "name": "Pengantar Pemasaran Digital & Ritel Modern",
+      "grade": "Kelas X",
+      "hoursPerWeek": 4,
+      "teacherName": "Ratna Sari, S.E., M.Pd.",
+      "isActive": true
+    }
+  ],
+  "websiteConfig": {
+    "siteName": "MARKETVERSE X",
+    "tagline": "DIGITAL MARKETING LEARNING & GAME ACADEMY",
+    "copyrightText": "© 2026 MARKETVERSE X · Digital Marketing Learning & Game Academy. Seluruh Hak Cipta Dilindungi.",
+    "maintenanceMode": false,
+    "allowForgotPassword": true,
+    "maxLoginAttempts": 5,
+    "lockoutMinutes": 5,
+    "sessionTimeoutMinutes": 1440,
+    "updatedAt": "2026-11-15T03:56:38.937Z"
+  },
+  "user_profiles": [
+    {
+      "id": "prof-superadmin-1",
+      "userId": "superadmin-1",
+      "fullName": "Dr. Hendra Kusuma, M.T.",
+      "phone": "-",
+      "address": "Jakarta Selatan",
+      "gender": "-",
+      "bio": "Akun resmi super admin pada ekosistem MARKETVERSE X.",
+      "department": "SMK Negeri 1 Nusantara Bisnis & Pemasaran",
+      "updatedAt": "2026-11-15T03:56:39.046Z"
+    },
+    {
+      "id": "prof-admin-1",
+      "userId": "admin-1",
+      "fullName": "Budi Santoso, S.Kom.",
+      "phone": "-",
+      "address": "Jakarta Selatan",
+      "gender": "-",
+      "bio": "Akun resmi admin pada ekosistem MARKETVERSE X.",
+      "department": "SMK Negeri 1 Nusantara Bisnis & Pemasaran",
+      "updatedAt": "2026-11-15T03:56:39.046Z"
+    },
+    {
+      "id": "prof-guru-1",
+      "userId": "guru-1",
+      "fullName": "Ratna Sari, S.E., M.Pd.",
+      "phone": "-",
+      "address": "Jakarta Selatan",
+      "gender": "-",
+      "bio": "Akun resmi guru pada ekosistem MARKETVERSE X.",
+      "department": "SMK Negeri 1 Nusantara Bisnis & Pemasaran",
+      "updatedAt": "2026-11-15T03:56:39.046Z"
+    },
+    {
+      "id": "prof-siswa-1",
+      "userId": "siswa-1",
+      "fullName": "Alya Putri Maharani",
+      "phone": "-",
+      "address": "Jakarta Selatan",
+      "gender": "-",
+      "bio": "Akun resmi siswa pada ekosistem MARKETVERSE X.",
+      "department": "Program Keahlian Pemasaran",
+      "updatedAt": "2026-11-15T03:56:39.046Z"
+    },
+    {
+      "id": "prof-siswa-2",
+      "userId": "siswa-2",
+      "fullName": "Raka Pratama Wijaya",
+      "phone": "-",
+      "address": "Jakarta Selatan",
+      "gender": "-",
+      "bio": "Akun resmi siswa pada ekosistem MARKETVERSE X.",
+      "department": "Program Keahlian Pemasaran",
+      "updatedAt": "2026-11-15T03:56:39.046Z"
+    },
+    {
+      "id": "prof-siswa-3",
+      "userId": "siswa-3",
+      "fullName": "Siti Rahma Azzahra",
+      "phone": "-",
+      "address": "Jakarta Selatan",
+      "gender": "-",
+      "bio": "Akun resmi siswa pada ekosistem MARKETVERSE X.",
+      "department": "Program Keahlian Pemasaran",
+      "updatedAt": "2026-11-15T03:56:39.046Z"
+    },
+    {
+      "id": "prof-siswa-4",
+      "userId": "siswa-4",
+      "fullName": "Bagas Adi Nugroho",
+      "phone": "-",
+      "address": "Jakarta Selatan",
+      "gender": "-",
+      "bio": "Akun resmi siswa pada ekosistem MARKETVERSE X.",
+      "department": "Program Keahlian Pemasaran",
+      "updatedAt": "2026-11-15T03:56:39.046Z"
+    },
+    {
+      "id": "prof-siswa-5",
+      "userId": "siswa-5",
+      "fullName": "Nadia Kusuma Dewi",
+      "phone": "-",
+      "address": "Jakarta Selatan",
+      "gender": "-",
+      "bio": "Akun resmi siswa pada ekosistem MARKETVERSE X.",
+      "department": "Program Keahlian Pemasaran",
+      "updatedAt": "2026-11-15T03:56:39.046Z"
+    },
+    {
+      "id": "prof-siswa-6",
+      "userId": "siswa-6",
+      "fullName": "Farhan Maulana Hakim",
+      "phone": "-",
+      "address": "Jakarta Selatan",
+      "gender": "-",
+      "bio": "Akun resmi siswa pada ekosistem MARKETVERSE X.",
+      "department": "Program Keahlian Pemasaran",
+      "updatedAt": "2026-11-15T03:56:39.046Z"
+    },
+    {
+      "id": "prof-ortu-1",
+      "userId": "ortu-1",
+      "fullName": "Ibu Hendrawati",
+      "phone": "-",
+      "address": "Jakarta Selatan",
+      "gender": "-",
+      "bio": "Akun resmi orang tua pada ekosistem MARKETVERSE X.",
+      "department": "SMK Negeri 1 Nusantara Bisnis & Pemasaran",
+      "updatedAt": "2026-11-15T03:56:39.046Z"
+    },
+    {
+      "id": "prof-ortu-2",
+      "userId": "ortu-2",
+      "fullName": "Bapak Agus Wijaya",
+      "phone": "-",
+      "address": "Jakarta Selatan",
+      "gender": "-",
+      "bio": "Akun resmi orang tua pada ekosistem MARKETVERSE X.",
+      "department": "SMK Negeri 1 Nusantara Bisnis & Pemasaran",
+      "updatedAt": "2026-11-15T03:56:39.046Z"
+    },
+    {
+      "id": "prof-super_admin-1794715256805",
+      "userId": "super_admin-1794715256805",
+      "fullName": "Shaeriyati (Super Admin)",
+      "phone": "-",
+      "address": "-",
+      "gender": "-",
+      "bio": "Akun super admin terdaftar di MARKETVERSE X.",
+      "department": "SMK Negeri 1 Nusantara Bisnis & Pemasaran",
+      "updatedAt": "2026-11-15T04:00:56.908Z"
+    }
+  ]
+}
